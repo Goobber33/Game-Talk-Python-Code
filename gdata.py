@@ -11,6 +11,11 @@ from google.auth.transport.requests import Request
 # Load environment variables
 load_dotenv()
 
+# Fetch MongoDB credentials and database name from .env
+username = os.environ.get('MONGO_USERNAME')
+password = os.environ.get('MONGO_PASSWORD')
+dbname = os.environ.get('MONGO_DBNAME')
+
 # If modifying these SCOPES, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
 
@@ -56,9 +61,6 @@ json_data = df.to_json(orient='records')
 data = json.loads(json_data)
 
 # Connecting to MongoDB
-username = "kcparks1234"
-password = "TTs2JytYedkzoOpg"
-dbname = "gdata"
 client = MongoClient(f"mongodb+srv://{username}:{password}@cluster0.eqfzrq7.mongodb.net/{dbname}?retryWrites=true&w=majority&tlsAllowInvalidCertificates=true")
 db = client[dbname]
 
