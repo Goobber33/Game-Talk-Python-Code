@@ -1,0 +1,2225 @@
+{
+    "World of Warcraft": [
+      {
+        "__EMPTY": "CLASS",
+        "WORLD OF WARCRAFT": "TERM",
+        "__EMPTY_1": "TECHNICAL TERM",
+        "__EMPTY_2": "DEFINITION",
+        "__EMPTY_3": "SPECIALIZATION",
+        "__EMPTY_4": "PvP",
+        "__EMPTY_5": "PvE",
+        "__EMPTY_6": "SYNONYMS",
+        "__EMPTY_7": "TALENTS",
+        "__EMPTY_8": "PVP TALENTS",
+        "__EMPTY_9": "SCHOOL OF MAGIC",
+        "__EMPTY_10": "COVENANT"
+      },
+      {
+        "__EMPTY": "COVENANT",
+        "WORLD OF WARCRAFT": "Night "
+      },
+      {
+        "WORLD OF WARCRAFT": "Venthyer"
+      },
+      {
+        "WORLD OF WARCRAFT": "K"
+      },
+      {
+        "WORLD OF WARCRAFT": "Necrolord"
+      },
+      {
+        "__EMPTY": "RACIAL",
+        "WORLD OF WARCRAFT": "Arcane Torrent"
+      },
+      {
+        "WORLD OF WARCRAFT": "Blood Fury"
+      },
+      {
+        "WORLD OF WARCRAFT": "War Stomp"
+      },
+      {
+        "WORLD OF WARCRAFT": "Humaned",
+        "__EMPTY_1": "Will to Survive",
+        "__EMPTY_2": "Removes all stun effects."
+      },
+      {
+        "__EMPTY": "COMMON",
+        "WORLD OF WARCRAFT": "Cleave",
+        "__EMPTY_2": "To do damage to multipule targets around a main target",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_18": "Minecraft",
+        "__EMPTY_21": "Valorant",
+        "__EMPTY_24": "APEX",
+        "__EMPTY_27": "Dota 2"
+      },
+      {
+        "WORLD OF WARCRAFT": "Stun",
+        "__EMPTY_2": "Any ability that will stun the target",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Drink",
+        "__EMPTY_2": "To sit down and regain mana during a fight",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "WORLD OF WARCRAFT": "Root",
+        "__EMPTY_2": "To use an ability that immobilizes the target",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Battle Rez",
+        "__EMPTY_1": "Combat Rezerection",
+        "__EMPTY_2": "Casting a short rezerection during combat to revive a fallen party or raid member",
+        "__EMPTY_6": "B Rez"
+      },
+      {
+        "WORLD OF WARCRAFT": "Rez",
+        "__EMPTY_1": "Rezerection",
+        "__EMPTY_2": "Reviving someone who is dead "
+      },
+      {
+        "WORLD OF WARCRAFT": "Wall",
+        "__EMPTY_1": "Defensive",
+        "__EMPTY_2": "Any ability that reduces damage"
+      },
+      {
+        "WORLD OF WARCRAFT": "Make a Play",
+        "__EMPTY_2": "To set something up by yourself to devistake your opponents and make a sick play on the enemy team"
+      },
+      {
+        "WORLD OF WARCRAFT": "HOT",
+        "__EMPTY_1": "Healing Over Time",
+        "__EMPTY_2": "Generally used with druids but any spells with healing over a duration of time on targets"
+      },
+      {
+        "WORLD OF WARCRAFT": "Trinket",
+        "__EMPTY_1": "Galdiators Medalion",
+        "__EMPTY_2": "Removes morvment imparing effects (2min cooldown)"
+      },
+      {
+        "WORLD OF WARCRAFT": "DOT",
+        "__EMPTY_1": "Damage Over Time",
+        "__EMPTY_2": "Any spells or damaging abilities that do damage over a duration of time on targets"
+      },
+      {
+        "WORLD OF WARCRAFT": "1 Shot",
+        "__EMPTY_2": "Having all of your cooldowns and pressing them to kill someone/everyone ASAP"
+      },
+      {
+        "WORLD OF WARCRAFT": "Gank",
+        "__EMPTY_2": "When a group of ppl gang up on a single target to greef them."
+      },
+      {
+        "WORLD OF WARCRAFT": "Damage",
+        "__EMPTY_2": "Having cooldowns available to do dmg when needed"
+      },
+      {
+        "WORLD OF WARCRAFT": "Pleb",
+        "__EMPTY_2": "Lower than a noob, just oblivious"
+      },
+      {
+        "WORLD OF WARCRAFT": "CC",
+        "__EMPTY_1": "Crowd Control",
+        "__EMPTY_2": "Any spell or ability that takes control of another player"
+      },
+      {
+        "WORLD OF WARCRAFT": "Cover",
+        "__EMPTY_2": "Used when talking about Croud Controling (CC) another player to (cover) them from aiding the target of choice"
+      },
+      {
+        "WORLD OF WARCRAFT": "Go",
+        "__EMPTY_2": "When your team is about to set up a kill or (go) that involves cooldowns and coordination to cross CC and deal damage to a target of choice"
+      },
+      {
+        "WORLD OF WARCRAFT": "Pop",
+        "__EMPTY_2": "Pressing spells or abilities that generally are very powerful at dealing damage"
+      },
+      {
+        "WORLD OF WARCRAFT": "Spin",
+        "__EMPTY_1": "Spin the Flag",
+        "__EMPTY_2": "Use spells and abilities to disrupt the enemy team from taking over a base (most commonly used in RBGs)",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "WORLD OF WARCRAFT": "Kite",
+        "__EMPTY_1": "Run away",
+        "__EMPTY_2": "Generally used when a player is out ranging the attacks of a Melee player and keeping them at bay and not suffering any damage"
+      },
+      {
+        "WORLD OF WARCRAFT": "Crushing",
+        "__EMPTY_2": "Doing massive damage to an enemy player (Crushing Them)"
+      },
+      {
+        "WORLD OF WARCRAFT": "Immunitys",
+        "__EMPTY_2": "Spells and abilities that make you immune to damage "
+      },
+      {
+        "WORLD OF WARCRAFT": "Defuse",
+        "__EMPTY_2": "Respawnding to the enemy Go and rotating the proper cooldowns to medigate damage and Defuse the Go"
+      },
+      {
+        "WORLD OF WARCRAFT": "Bang",
+        "__EMPTY_2": "I have big damage lined out and im about to BANG this (X)"
+      },
+      {
+        "WORLD OF WARCRAFT": "Out",
+        "__EMPTY_2": "Having a way (out) by using cooldowns, trinkets, or immunitys to escape your opponetes "
+      },
+      {
+        "WORLD OF WARCRAFT": "Pillar",
+        "__EMPTY_2": "Using the map at your full advatage runing in and around the pillar to create your own line of sight"
+      },
+      {
+        "WORLD OF WARCRAFT": "Lined it",
+        "__EMPTY_1": "Line of Sight",
+        "__EMPTY_2": "I used line of sight to stop whatever cast or ability that was intended for me"
+      },
+      {
+        "WORLD OF WARCRAFT": "Stop",
+        "__EMPTY_2": "To defend, or to disrupt the enemy teams (go) or whatever they plan on doing"
+      },
+      {
+        "WORLD OF WARCRAFT": "Pre",
+        "__EMPTY_1": "Preemptive",
+        "__EMPTY_2": "To anticipate a play and react to it just before its about to happen"
+      },
+      {
+        "WORLD OF WARCRAFT": "Kick",
+        "__EMPTY_2": "To interupt a targets cast"
+      },
+      {
+        "WORLD OF WARCRAFT": "Crit",
+        "__EMPTY_1": "Critical Strike",
+        "__EMPTY_2": "Deals double the amount of damage to a target"
+      },
+      {
+        "WORLD OF WARCRAFT": "Tunnel",
+        "__EMPTY_2": "Head down, going all in (tunneling) a target to the ground"
+      },
+      {
+        "WORLD OF WARCRAFT": "Sitting",
+        "__EMPTY_1": "Not Trinketing",
+        "__EMPTY_2": "Opting not to trinket, or to get (out) of (CC)"
+      },
+      {
+        "WORLD OF WARCRAFT": "Cross CC",
+        "__EMPTY_1": "2 Targets in Crowd Control",
+        "__EMPTY_2": "To use spells and abilites together as a team to incapasitate two targets at once - Cross CC"
+      },
+      {
+        "WORLD OF WARCRAFT": "It's you",
+        "__EMPTY_1": "Your cooldowns",
+        "__EMPTY_2": "I'm not using my cooldowns or trinket, use yours- It's you"
+      },
+      {
+        "WORLD OF WARCRAFT": "Full CD's ",
+        "__EMPTY_1": "All my buttons",
+        "__EMPTY_2": "I literally have every button and im ready to pop off"
+      },
+      {
+        "WORLD OF WARCRAFT": "It's me",
+        "__EMPTY_1": "My cooldowns",
+        "__EMPTY_2": "Don't press anything, i got it - It's me"
+      },
+      {
+        "WORLD OF WARCRAFT": "DR",
+        "__EMPTY_1": "Diminishing Return",
+        "__EMPTY_2": "Once a spell with a specific category of (CC) is applied to a target, the next time it is applied, the duration is cut in half"
+      },
+      {
+        "__EMPTY": "DEATH KNIGHT",
+        "WORLD OF WARCRAFT": "AMS",
+        "__EMPTY_1": "Anti-Magic Shell",
+        "__EMPTY_2": "Surrounds you in a Anti-Magic Shell absorbing magical damage and effects",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Shell"
+      },
+      {
+        "WORLD OF WARCRAFT": "AMZ",
+        "__EMPTY_1": "Anti-Magic Zone",
+        "__EMPTY_2": "Place an Anti-Magic Zone reducing spell damage taken by 20%",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Zone,"
+      },
+      {
+        "WORLD OF WARCRAFT": "Chains",
+        "__EMPTY_1": "Chains of Ice",
+        "__EMPTY_2": "Shackle the target, slowing movment speed by 70%",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Slow, Chains, Snare"
+      },
+      {
+        "WORLD OF WARCRAFT": "Blind",
+        "__EMPTY_1": "Blinding Sleet",
+        "__EMPTY_2": "Targets in a cone in front of you are blinded, causing them to wander disoriented for 5 sec. Damage may cancel the effect. When Blinding Sleet ends, enemies are slowed by 50% for 6 sec.",
+        "__EMPTY_3": "Frost",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Grip",
+        "__EMPTY_1": "Death Grip",
+        "__EMPTY_2": "Draws the target towards you",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Icebound",
+        "__EMPTY_1": "Icebound Fortitude",
+        "__EMPTY_2": "Reducing all damage taken by 30% and granting immunity to stuns",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "IBF, Wall"
+      },
+      {
+        "WORLD OF WARCRAFT": "Stun",
+        "__EMPTY_1": "Asphyxiate",
+        "__EMPTY_2": "Dark energy that stuns the target for 4 seconds",
+        "__EMPTY_3": "Frost, Unholy",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Pillar",
+        "__EMPTY_1": "Pillar of Frost",
+        "__EMPTY_2": "Increases your Strength by 20% for 12 seconds",
+        "__EMPTY_3": "Frost",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Mass Grip",
+        "__EMPTY_1": "Gorefiend's Grasp",
+        "__EMPTY_2": "Tendrils coil around the target, pulling them to the target's location",
+        "__EMPTY_3": "Blood",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Army",
+        "__EMPTY_1": "Army of the Dead",
+        "__EMPTY_2": "Summons a legion of ghouls who swarm your enemies for 30 seconds",
+        "__EMPTY_3": "Unholy",
+        "__EMPTY_4": false,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Pet Kick",
+        "__EMPTY_1": "Leap",
+        "__EMPTY_2": "During Dark Transformation: Charge an enemy, interupting spellcasting and immoblizing them for 2 seconds.",
+        "__EMPTY_3": "Unholy",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Chill Streak",
+        "__EMPTY_1": "Chill Streak",
+        "__EMPTY_2": "Deals damage and slows the target bouncing up to 9 times between closest targets within 6 yards",
+        "__EMPTY_3": "Frost",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "WORLD OF WARCRAFT": "Death",
+        "__EMPTY_1": "Deaths Advance",
+        "__EMPTY_2": "For 8 sec, your movement speed is increased by 30%, you cannot be slowed below 100% of normal speed, and you are immune to forced movement effects and knockbacks.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Dark Sim",
+        "__EMPTY_1": "Dark Simulacrum",
+        "__EMPTY_2": "Places a ward on a play for 12 seconds - Next mana spending spell the Death Knight will duplicate that spell",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "__EMPTY": "DEMON HUNTER",
+        "WORLD OF WARCRAFT": "Wall",
+        "__EMPTY_1": "Blur",
+        "__EMPTY_2": "Increase your chance to dodge by 50% and reduces all damage taken by 20% for 10 sec.",
+        "__EMPTY_3": "Havoc",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Purge",
+        "__EMPTY_1": "Consume Magic",
+        "__EMPTY_2": "Consume 1 benefical Magic effect removing to from the target and granting you 20 Fury",
+        "__EMPTY_3": "Havoc",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Incap",
+        "__EMPTY_1": "Imprison",
+        "__EMPTY_2": "Imprisons a demon, beast, or humanoid, incapacitating them for 1 min. Damage will cancel the effect. Limit 1",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Prison"
+      },
+      {
+        "WORLD OF WARCRAFT": "Meta",
+        "__EMPTY_1": "Metamorphosis",
+        "__EMPTY_2": "Transforme into a hellish demon for 30 sec, empowering your abilities and gain 25% and 25% leech.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Darkness",
+        "__EMPTY_1": "Darkness",
+        "__EMPTY_2": "Summons darkness around you in an 8 yd radius, granting friendly targets a 20% chance to avoid all damage from an attack. Lasts 8 seconds",
+        "__EMPTY_3": "Havoc",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Dark"
+      },
+      {
+        "WORLD OF WARCRAFT": "Mana burn",
+        "__EMPTY_1": "Mana Rift",
+        "__EMPTY_2": "Place a 6 yard rift under the feet of the target - once it erupts it consumes 8% of health and 8% mana from each player inside the rift",
+        "__EMPTY_3": "Havoc",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_7": false,
+        "__EMPTY_8": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Reverse",
+        "__EMPTY_1": "Reverse Magic",
+        "__EMPTY_2": "Removes all harmful magical effects from yourself and all nearby allies within 10 yards - In addition sends them back to their origanal caster if possible",
+        "__EMPTY_3": "Havoc",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Dispell",
+        "__EMPTY_7": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Nether",
+        "__EMPTY_1": "Nether Walk",
+        "__EMPTY_2": "Slip into the nether, increasing movement speed by 100% and becoming immune to damage, but unable to attack, Lasts 5 sec.",
+        "__EMPTY_3": "Havoc",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Immunity"
+      },
+      {
+        "WORLD OF WARCRAFT": "AOE Stun",
+        "__EMPTY_1": "Chaos Nova",
+        "__EMPTY_2": "Unleash an eruption of fel energy, dealing dmg and stunning all nearby enemies for 2 sec.",
+        "__EMPTY_3": "Havoc",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Stun"
+      },
+      {
+        "__EMPTY": "DRUID",
+        "WORLD OF WARCRAFT": "Incap",
+        "__EMPTY_1": "Incapacitating Roar",
+        "__EMPTY_2": "Shift into Bear Form and roar, incapacitating all enemies within 15 yards for 3 sec. Damage will cancel the effect.",
+        "__EMPTY_3": "Guardian, Guardian Affinity",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Roar"
+      },
+      {
+        "WORLD OF WARCRAFT": "Incarn",
+        "__EMPTY_1": "Incarnation",
+        "__EMPTY_2": "An improved Moonkin Form that grants the benefits of Celestial Alignment, and 10% critcal strike chance - Lasts 30 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Big dam"
+      },
+      {
+        "WORLD OF WARCRAFT": "Innervate",
+        "__EMPTY_1": "Innervate",
+        "__EMPTY_2": "Infuse a friendly healer with energy, allowing themto cast spells without spending mana for 10 sec.",
+        "__EMPTY_3": "Balance, Resto",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Form",
+        "__EMPTY_1": "Any Shapeshifted Form",
+        "__EMPTY_2": "Cat Form, Bear Form, Moonkin Form, Travel Form, Auqa Form",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Boomy, Balance, Owl, Owl Form"
+      },
+      {
+        "WORLD OF WARCRAFT": "De-Curse",
+        "__EMPTY_1": "Remove Corruption",
+        "__EMPTY_2": "Removes all curse and poisons effects on a friendly target",
+        "__EMPTY_3": "Balance",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Dispell"
+      },
+      {
+        "WORLD OF WARCRAFT": "Root Beam",
+        "__EMPTY_1": "Mass Entanglement",
+        "__EMPTY_2": "to mass entangle one or more targets in a blanket silence of a solar beam",
+        "__EMPTY_3": "BALANCE",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Beam"
+      },
+      {
+        "WORLD OF WARCRAFT": "Knock",
+        "__EMPTY_1": "Typhoon",
+        "__EMPTY_2": "Blasts targets within 20 yards in front of you, knocking them back and dazing them for 6 seconds",
+        "__EMPTY_3": "Balance",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Rake Stun",
+        "__EMPTY_1": "Rake",
+        "__EMPTY_2": "While stealthed, Rake will also stun the target for 4 sec",
+        "__EMPTY_3": "Feral",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Stun"
+      },
+      {
+        "WORLD OF WARCRAFT": "Wall",
+        "__EMPTY_1": "Barkskin",
+        "__EMPTY_2": "Your skin becomes as though as bark, reducing all damage you take by 20%",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Skin"
+      },
+      {
+        "WORLD OF WARCRAFT": "NS",
+        "__EMPTY_1": "Natures Swiftness",
+        "__EMPTY_2": "Your next Regrowth, Rebirth, or Entangling Roots is instant, free, castable in all forms, and heals for an additional 100",
+        "__EMPTY_3": "Restoration",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Big Heal"
+      },
+      {
+        "WORLD OF WARCRAFT": "Vortex",
+        "__EMPTY_1": "Ursols Vortex",
+        "__EMPTY_2": "Conjures a vortex of wind for 10 sec at the destination, reducing the movment speed of all enemies within 8 yards by 50%. The first time an enemy attempts to leave the vortex, winds will pull that enemy back to its center.",
+        "__EMPTY_3": "Restoration, Restoration Affinity",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Grip"
+      },
+      {
+        "WORLD OF WARCRAFT": "Disarm",
+        "__EMPTY_1": "Faerie Swarm",
+        "__EMPTY_2": "Disarms the enemy, preventing the use of any weapons or shield and recuing movement speed by 30% for 5 sec.",
+        "__EMPTY_3": "Balance",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false,
+        "__EMPTY_7": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Thorns",
+        "__EMPTY_1": "Thorns",
+        "__EMPTY_2": "Sprout thorns for 12 sec, when struck by melee attacks thorns deals dmg back at the attacker, also reducing their speed by 50% for 4 sec.",
+        "__EMPTY_3": "Balance, Resto, Feral",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false,
+        "__EMPTY_7": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Clone",
+        "__EMPTY_1": "Cyclone",
+        "__EMPTY_2": "Tosses the enemy target into the air, making them invulnerable for up to 6 seconds",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_9": "Nature"
+      },
+      {
+        "WORLD OF WARCRAFT": "Stealth",
+        "__EMPTY_1": "Prowl",
+        "__EMPTY_2": "To go invisible",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Regen",
+        "__EMPTY_1": "Frenzied Regeneration",
+        "__EMPTY_2": "Heals you for 32% health over 3 sec.",
+        "__EMPTY_3": "Guardian, Guardian Affinity",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Regeneration"
+      },
+      {
+        "__EMPTY": "HUNTER",
+        "WORLD OF WARCRAFT": "Cheetah",
+        "__EMPTY_1": "Aspect of the Cheetah",
+        "__EMPTY_2": "Increase your movement speed by 90% for 5 sec, and then by 30% for another 9sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Sprint"
+      },
+      {
+        "WORLD OF WARCRAFT": "Turtle",
+        "__EMPTY_1": "Aspect of the Turtle",
+        "__EMPTY_2": "Deflects all attacks and ruduces all damage you take by 30% for 8 sec, but you cannot attack",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Heal",
+        "__EMPTY_1": "Exhilaration",
+        "__EMPTY_2": "Heals you for 30% of maximum health",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Feign",
+        "__EMPTY_1": "Feign Death",
+        "__EMPTY_2": "Feign death, tricking enemies into ignoring you. Lasts up to 6 min",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Flare",
+        "__EMPTY_1": "Flare",
+        "__EMPTY_2": "Exposes all hidden and invisible enemies within the tergeted area for 20 sec",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Trap",
+        "__EMPTY_1": "Ice Trap",
+        "__EMPTY_2": "Hurls a frost trap to the target location that incapacitates the first enemy that approaches for 1 min",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Execute",
+        "__EMPTY_1": "Kill Shot",
+        "__EMPTY_2": "You attempt to finish off a wounded target, dealing dmg. Only usable on enemies with less than 20% health.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Pet heal",
+        "__EMPTY_1": "Mend Pet",
+        "__EMPTY_2": "Heals your pet for 50% of its total health over 10 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Fear",
+        "__EMPTY_1": "Scare beast",
+        "__EMPTY_2": "Scares a beast, causing it to run in fear for up to 20 sec",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Wall",
+        "__EMPTY_1": "Survival of the Fittest",
+        "__EMPTY_2": "Reduces all damage you take by 20% for 6 sec. ",
+        "__EMPTY_3": "Marksmanship",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Purge",
+        "__EMPTY_1": "Tranquilizing Shot",
+        "__EMPTY_2": "Removes 1 enrage and 1 magic effect from an enemy target",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Root",
+        "__EMPTY_1": "Binding Shot",
+        "__EMPTY_2": "Fires a magical projectile, enemies within 5 yards atempting to move more than 5 yards will be rooted for 8 seconds",
+        "__EMPTY_3": "Marksmanship",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Knock",
+        "__EMPTY_1": "Hi-Explosive Trap",
+        "__EMPTY_2": "Hurls a fire trap to thte target location that explodes when an enemy approches, causing dmg and kocking all enemies away.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false,
+        "__EMPTY_7": false,
+        "__EMPTY_8": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Stealth",
+        "__EMPTY_1": "Camouflage",
+        "__EMPTY_2": "You and your pet blend into the surroundings and gain stealth for 1 min.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_7": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Scatter",
+        "__EMPTY_1": "Scatter Shot",
+        "__EMPTY_2": "A short-range shot that deals dmg and removes all harmful DOT effects and incapacitates the target for 4 sec.",
+        "__EMPTY_3": "Marksmanship",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false,
+        "__EMPTY_7": false,
+        "__EMPTY_8": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Slow",
+        "__EMPTY_1": "Concussive Shot",
+        "__EMPTY_2": "Dazes the target, slowing movement speed by 50% for 6 sec",
+        "__EMPTY_3": "Marksmanship, BM",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Silence",
+        "__EMPTY_1": "Counter Shot",
+        "__EMPTY_2": "Interrupts spellcasting, preventing any spell in that school from being cast for 3 sec.",
+        "__EMPTY_3": "Marksmanship, BM",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Stun",
+        "__EMPTY_1": "Intimidation",
+        "__EMPTY_2": "Commands your pet to intimidate the target, stunning it for 5 sec.",
+        "__EMPTY_3": "BM",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Charge",
+        "__EMPTY_1": "Harpoon",
+        "__EMPTY_2": "Hurls a harpoon at an enemy, rooting them in place for 3 sec and pulling you to them",
+        "__EMPTY_3": "Survival",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Sac",
+        "__EMPTY_1": "Roar of Sacrifice",
+        "__EMPTY_2": "Instructs your pet to protect a friendly target from citrical strikes, making attacks against that target unable to be critical struck, 20% of dmg is directed to pet. Lasts 12 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false,
+        "__EMPTY_7": false,
+        "__EMPTY_8": true
+      },
+      {
+        "__EMPTY": "MAGE",
+        "WORLD OF WARCRAFT": "Buff",
+        "__EMPTY_1": "Arcane Intellect",
+        "__EMPTY_2": "Infuses the target with brilliance, increasing their intellect by 5% for 1 hour.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Mage food",
+        "__EMPTY_1": "Mana Buns",
+        "__EMPTY_2": "Conjures mana food for you and your allies",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "CS",
+        "__EMPTY_1": "Counter Spell",
+        "__EMPTY_2": "Counters the enemy's spellcast, preventing any spell from that school of magic from being cast for 6 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Nova",
+        "__EMPTY_1": "Ice Nova",
+        "__EMPTY_2": "Blasts enemies within 12 yds of you for frost dmg and freezes them in place for 10 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Root"
+      },
+      {
+        "WORLD OF WARCRAFT": "Block",
+        "__EMPTY_1": "Ice Block",
+        "__EMPTY_2": "Encases you in a block of ice, protecting you from all attacks and dmg for 10 sec, but during that time you cannot attack, move, or cast spells.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Wall",
+        "__EMPTY_1": "Mirror images",
+        "__EMPTY_2": "Creates 3 copies of you nearby for 40 sec, which cast spells and attack your enemies.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Images"
+      },
+      {
+        "WORLD OF WARCRAFT": "Poly",
+        "__EMPTY_1": "Polymorph",
+        "__EMPTY_2": "Transfroms the enemy into a sheep, wandering around incapacitated for 1 min, dmg will break this effect.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Sheep",
+        "__EMPTY_9": "Arcane"
+      },
+      {
+        "WORLD OF WARCRAFT": "Port",
+        "__EMPTY_1": "Portal",
+        "__EMPTY_2": "Creates a portal, teleporting group members that use it to a major city",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": false,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "De-Curse",
+        "__EMPTY_1": "Remove Curse",
+        "__EMPTY_2": "Removes all Curse from a friendly target.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Lust",
+        "__EMPTY_1": "Time Warp",
+        "__EMPTY_2": "Warp the flow of time, increasing haste by 30% for all party and raid members for 40 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": false,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Blink",
+        "__EMPTY_1": "Shimmer, Blink",
+        "__EMPTY_2": "Teleports you 20 yards forward, unless something is in the way, Unaffected by the global cooldown and castable while casting.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Will",
+        "__EMPTY_1": "Will of the foresaken",
+        "__EMPTY_2": "Removes any Charm, Fear and Sleep effect",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Alter",
+        "__EMPTY_1": "Alter Time",
+        "__EMPTY_2": "Alters the fabric of time, returning you to your current locastion and health when a cast a second time or after 10 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Combust",
+        "__EMPTY_1": "Combustion",
+        "__EMPTY_2": "For 10 sec, increases your spells' critcal strike chance by 100% and granting you mastery equal to 50% your critical strike stat. castable while casting other spells",
+        "__EMPTY_3": "Fire",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "DB",
+        "__EMPTY_1": "Dragons Breath",
+        "__EMPTY_2": "Enemies in a cone in front of you take dmg and are disoriented for 4 sec, dmg will cancel the effect",
+        "__EMPTY_3": "Fire",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Klepto",
+        "__EMPTY_1": "Kleptomania",
+        "__EMPTY_2": "Spellsteal now has a 30 sec cooldown, but steals all spells from the target.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false,
+        "__EMPTY_6": "Spellsteal"
+      },
+      {
+        "__EMPTY": "MONK",
+        "WORLD OF WARCRAFT": "Dispell",
+        "__EMPTY_1": "Detox",
+        "__EMPTY_2": "Removes all Magic, Poison, and Disease effects from the target",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Dispell, Cleasne"
+      },
+      {
+        "WORLD OF WARCRAFT": "Wall",
+        "__EMPTY_1": "Fortifiying Brew",
+        "__EMPTY_2": "Fort Brew - Turns your skin to stone, increasing HP by 15% and reducing dmg taken by 15%   ",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Wall",
+        "__EMPTY_1": "Dampen Harm",
+        "__EMPTY_2": "Dampen Harm - Reduces all dmg you take by 20% to 50% for 10 sec",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_7": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Stun",
+        "__EMPTY_1": "Leg Sweep",
+        "__EMPTY_2": "Knocks down all enemies within 6 yards, stunning them for 3 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Leg, Sweep"
+      },
+      {
+        "WORLD OF WARCRAFT": "Incap",
+        "__EMPTY_1": "Paralasis",
+        "__EMPTY_2": "Incapacitates the target for 1 min.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "TOD",
+        "__EMPTY_1": "Touch of Death",
+        "__EMPTY_2": "You exploit the enemy target's weakest point - Deals dmg equal to 35% of your max health against players under 15% health",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Exictue"
+      },
+      {
+        "WORLD OF WARCRAFT": "Port",
+        "__EMPTY_1": "Transendance",
+        "__EMPTY_2": "Place your spirit at a location, while in range use Transcendence: Transfer - Your body and spirit swap locations",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Kyrian",
+        "__EMPTY_1": "Weapons of Order",
+        "__EMPTY_2": "For the next 30 sec, your mastery is increased by a precentage and making class specialization abailty enchanced",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Slow",
+        "__EMPTY_1": "Disable",
+        "__EMPTY_2": "Reduces the target's movment speed by 50% - use a second time to root them in place for 8 sec.",
+        "__EMPTY_3": "WindWalker",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Fists",
+        "__EMPTY_1": "Fist of Fury",
+        "__EMPTY_2": "Pummels all targets in front of you dealing dmg. Channeled while moving (pvp talent: Turbo fists - reduces all targets movement speed while 90% and you parry all attacks while channelling Fist of fury)",
+        "__EMPTY_3": "WindWalker",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Tiger",
+        "__EMPTY_1": "Tigers Lust",
+        "__EMPTY_2": "Increases a friendlys target's movment speed by 70% for 6 sec and removes all roots and snares.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Freedom"
+      },
+      {
+        "WORLD OF WARCRAFT": "Ring",
+        "__EMPTY_1": "Ring of Peace",
+        "__EMPTY_2": "Form a Ring of Peace at the targets location for 5 sec. Enemies that enter will be ejected from the Ring.",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Ring, Knock",
+        "__EMPTY_7": true
+      },
+      {
+        "WORLD OF WARCRAFT": "RSK",
+        "__EMPTY_1": "Rising Sun Kick",
+        "__EMPTY_2": "Kick upwards, dealing dmg and reducing the effectivness of healin gon the target for 10 sec.",
+        "__EMPTY_3": "WindWalker",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Interupt",
+        "__EMPTY_1": "Hand and Spear",
+        "__EMPTY_2": "Jabs the target in the throat, interrupting spellcasting and preventing any spell from that school of magic from being cast for 4 sec",
+        "__EMPTY_3": "WindWalker, Brewmaster",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Images",
+        "__EMPTY_1": "Storm, Earth and Fire",
+        "__EMPTY_2": "Split into 3 elemental spirits for 15 sec, each spirit dealing 45% of normal dmg and healing",
+        "__EMPTY_3": "WindWalker",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Karma",
+        "__EMPTY_1": "Touch of Karma",
+        "__EMPTY_2": "Absorbs all dmg taken for 10 sec, up to 50% of your maximum health, and redirects 70% of that amount to the enemy target as nature dmg over 6 sec.",
+        "__EMPTY_3": "WindWalker",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Cocoon",
+        "__EMPTY_1": "Life Cocoon",
+        "__EMPTY_2": "Encases the target in a cocoon of Chi energy for 12 sec, absorbing 25k damage",
+        "__EMPTY_3": "Mistweaver",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Disarm",
+        "__EMPTY_1": "Grapple Weapon",
+        "__EMPTY_2": "You fire off a rope spear, grappling the target's weapons and sheild, returning them to you for 6 sec.",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false,
+        "__EMPTY_7": false,
+        "__EMPTY_8": true
+      },
+      {
+        "__EMPTY": "PALADIN",
+        "WORLD OF WARCRAFT": "Wings",
+        "__EMPTY_1": "Avenging Wrath",
+        "__EMPTY_2": "Call upon the Light, increasing your dmg, healing, and critical strike chance by 30% for 20 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Freedom",
+        "__EMPTY_1": "Blessing of Freedom",
+        "__EMPTY_2": "Blesses a party or raid member, granting immunity to movement impairing effects for 8 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "BOP",
+        "__EMPTY_1": "Blessing of Protection",
+        "__EMPTY_2": "Blesses a party or raid member, granting immunity to Physical dmg and harmful effects for 10 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "SAC",
+        "__EMPTY_1": "Blessing of Sacrifice",
+        "__EMPTY_2": "Blesses a party or raid member, reducing their dmg taken by 30%, but you suffer 75% of damage prevented.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "AURA",
+        "__EMPTY_1": "Aura Mastery",
+        "__EMPTY_2": "Empwers your chosen aura for 8 sec.",
+        "__EMPTY_3": "Holy",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "CONC",
+        "__EMPTY_1": "Concentration Aura",
+        "__EMPTY_2": "Affected allies immune to interrupts and silences.",
+        "__EMPTY_3": "Holy",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Devo",
+        "__EMPTY_1": "Devotion Aura",
+        "__EMPTY_2": "Damage reduction increased to 15%",
+        "__EMPTY_3": "Holy",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Bubble",
+        "__EMPTY_1": "Divine Shield",
+        "__EMPTY_2": "Grants immunity to all damage and harful effects for 8 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Divine Toll",
+        "__EMPTY_1": "Divine Toll",
+        "__EMPTY_2": "Instantly cast holy shock, Avenger's Shield, or Judgment on up to 5 targets winthin 30 yds (Based on your current specialization)",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "HOJ",
+        "__EMPTY_1": "Hammer of Justice",
+        "__EMPTY_2": "Stuns the target for 6 sec",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Stun"
+      },
+      {
+        "WORLD OF WARCRAFT": "WOD",
+        "__EMPTY_1": "Word of Glory",
+        "__EMPTY_2": "Calls down the Light to heal a friendly for 6,553.",
+        "__EMPTY_3": "Holy",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Becan Proc",
+        "__EMPTY_1": "Saved by the Light",
+        "__EMPTY_2": "When an ally with your Beacon of Light is damaged below 30% health, they absorb the next 8,296 damage. 1 min cooldown.",
+        "__EMPTY_3": "Holy",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Dispell",
+        "__EMPTY_1": "Cleanse",
+        "__EMPTY_2": "Cleanses a friendly target, removing all Poison, Disease, and Magic effects.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Walled",
+        "__EMPTY_1": "Divine Protection",
+        "__EMPTY_2": "Reduces all damage you take by 20% for 8 sec.",
+        "__EMPTY_3": "Holy",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Wall"
+      },
+      {
+        "WORLD OF WARCRAFT": "Shield",
+        "__EMPTY_1": "Shield of Vengence",
+        "__EMPTY_2": "Creates a barrier of holy light that absorbs 15k damage for 15 sec. When the Sheild expires, it burts to inflict Holy damage equal to the total amount absorbed, split to all nearby enemies.",
+        "__EMPTY_3": "Ret",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Wake",
+        "__EMPTY_1": "Wake of Ashes",
+        "__EMPTY_2": "Lash out at your enemies, dealing 5k Radiant dmg to all enemies within 12 yd in front of you and reducing their movment speed by 50% for 5 sec. ",
+        "__EMPTY_3": "Ret",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Divine Fav",
+        "__EMPTY_1": "Divine Favor",
+        "__EMPTY_2": "Your next Holy Light or Flash of Light is increased by 100%, casts 30% faster, and is unable to be interrupted.",
+        "__EMPTY_3": "Holy",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "__EMPTY": "PRIEST",
+        "WORLD OF WARCRAFT": "Fade",
+        "__EMPTY_1": "Fade, Greater Fade",
+        "__EMPTY_2": "Fade out, removing all threat, increasing your movement speed by 50% and causing most melee, ranged and spells to miss you. Lasts 4 seconds or until you take a hostile action.",
+        "__EMPTY_3": "Holy, Shadow",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "WORLD OF WARCRAFT": "Grip",
+        "__EMPTY_1": "Leap of Faith",
+        "__EMPTY_2": "Pulls the spirit of a party or raid member, instantly moving them directly in front of you",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "MD",
+        "__EMPTY_1": "Mass Dispell",
+        "__EMPTY_2": "Dispels magic in a 15 yard radius, removing all harmful magic from 5 friendly targets and 1 beneficial magic effect from 5 enemy targets. Potent enough to remove magic that in normally undispellable.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "MC",
+        "__EMPTY_1": "Mind Control",
+        "__EMPTY_2": "Controls a mind up to 1 level above yours for 30 sec. Shares diminishing returns with other disorienting effects.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Mindgames",
+        "__EMPTY_1": "Mindgames",
+        "__EMPTY_2": "Assault an enemy's mind, dealing 9k dmg and briefly reversing their perception of reality. For 7 sec, the next 10k dmg they deal will heal their target, and the next 10k healing they deal will dmg their target.",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_9": "Shadow"
+      },
+      {
+        "WORLD OF WARCRAFT": "PI",
+        "__EMPTY_1": "Power Infusion",
+        "__EMPTY_2": "Infuses the target with power for 20 sec, increasing haste by 25%",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Fort",
+        "__EMPTY_1": "Power Word: Fortitude",
+        "__EMPTY_2": "Infuses the target with vitality, increasing their Stamina by 5% for 1 hour.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Fear",
+        "__EMPTY_1": "Psychic Scream",
+        "__EMPTY_2": "Lets out a psychic scream, causing 5 enemies within 8 yards to flee, disorienting them for 8 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Shackle",
+        "__EMPTY_1": "Shackle Undead",
+        "__EMPTY_2": "Shackle an undead enemy for 50 sec, preventing all actions and movement.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Death",
+        "__EMPTY_1": "Shadow Word: Death",
+        "__EMPTY_2": "A word of dark binding that inflicts 1,500 Shadow dmg to the target. If the target is not killed by Shadow Word: Death, the caster takes dmg equal to the dmg inflicted upon the target.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Feather",
+        "__EMPTY_1": "Angelic Feathers",
+        "__EMPTY_2": "Places a feather at the target location, granting the first ally to walk through it 40% increased movement speed for 5 sec. Only 3 feathers can be placed at one time. 3 charges",
+        "__EMPTY_3": "Holy, Disipline",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "GS",
+        "__EMPTY_1": "Gardian Spirit",
+        "__EMPTY_2": "Calls upon a guardin spirit to watch over the friendly target for 10 sec, increasing healing received by 60% and preventing the target from dying by sacrificing itself for 40% of maximum health, castable while stunned.",
+        "__EMPTY_3": "Holy",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Stun",
+        "__EMPTY_1": "Holy Word: Chastize",
+        "__EMPTY_2": "Chastises the target for 3k dmg and stuns them for 4 sec",
+        "__EMPTY_3": "Holy",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Serenity",
+        "__EMPTY_1": "Holy Word: Serenity",
+        "__EMPTY_2": "Performs a miracle, healing an ally for 14k",
+        "__EMPTY_3": "Holy",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "PS",
+        "__EMPTY_1": "Pain Supression",
+        "__EMPTY_2": "Reduces all dmg taken by a friendly target by 40% for 8 sec. Castable while stunned",
+        "__EMPTY_3": "Discipline",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Barrier",
+        "__EMPTY_1": "Holy Word: Barrier",
+        "__EMPTY_2": "Summons a holy barrier to protect all allies at the target location for 10 sec, reducing all dmg taken by 25% and preventing dmg from delaying spellcasting.",
+        "__EMPTY_3": "Discipline",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Radiance",
+        "__EMPTY_1": "Power Word: Radiance",
+        "__EMPTY_2": "A burst of light heals the target and 4 injured allies within 30 yards for 2k, and apllies Atonement for 60% of its normal duration. Max 2 charges",
+        "__EMPTY_3": "Discipline",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Rapture",
+        "__EMPTY_1": "Rapture",
+        "__EMPTY_2": "Immediately Power Word: Shield your target, and for the next 8 sec, Power Word: Shield absorbs an additional 200% and may be cast on targets with weakened soul.",
+        "__EMPTY_3": "Discipline",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Fiend",
+        "__EMPTY_1": "Shadowfiend",
+        "__EMPTY_2": "Summons a shadowy fiend to attack the target for 15sec - Generates 1% Mana each time the Shadowfiend attacks.",
+        "__EMPTY_3": "Discipline, Shadow",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "DP",
+        "__EMPTY_1": "Devouring Plague",
+        "__EMPTY_2": "Afflicts the target with a disease that instatnly casues 1,200 dmg plus an additional 2400 dmg over 6 sec. Heals you for 50% of dmg dealt.",
+        "__EMPTY_3": "Shadow",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Dispers",
+        "__EMPTY_1": "Dispersion",
+        "__EMPTY_2": "Disperse into pure shadow energy, reducing all dmg taken by 75% for 6 sec, but you are unable to attack or cast spells. Increases movement speed by 50% and makes you immune to all movement impairing effects. Castable while stunned, feared or silenced",
+        "__EMPTY_3": "Shadow",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Mend",
+        "__EMPTY_1": "Shadow Mend",
+        "__EMPTY_2": "Wraps an ally in shadows which heal for 7k but at a price - The ally will take dmg every 1 sec, until they have taken 4k total dmg from all sources or leave combat.",
+        "__EMPTY_3": "Discipline, Shadow",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "VE",
+        "__EMPTY_1": "Vampiric Embrace",
+        "__EMPTY_2": "Fills you with the embrace of Shadow energy for 15 sec, causing you to heal a nearby ally for 85% of any single-target Shado spell dmg you deal.",
+        "__EMPTY_3": "Shadow",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "VT",
+        "__EMPTY_1": "Vampiric Touch",
+        "__EMPTY_2": "A touch of darkness that causes 4k dmg over 21 sec, and heals you for 50% of dmg dealt. If VT is dispelled, the dispeller flees in Horror for 3 sec.",
+        "__EMPTY_3": "Shadow",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_9": "Shadow"
+      },
+      {
+        "WORLD OF WARCRAFT": "Thought Steal",
+        "__EMPTY_1": "Thoughtsteal",
+        "__EMPTY_2": "Peer into the mind of the enemy, attempting to steal a known spell. If stolen, the victim cannot cast that spell for 20 sec. ",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "WORLD OF WARCRAFT": "Psyfiend",
+        "__EMPTY_1": "Psyfiend",
+        "__EMPTY_2": "Summons a Psyfiend with 10 hp for 12 sec besides you to attack the target at range with Psyfly - Deals up to 1% of the target's total health in shadow dmg every 0.8 sec. Also slows their movement speed by 50% and reduces healing received by 50%",
+        "__EMPTY_3": "Shadow",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "WORLD OF WARCRAFT": "Swap",
+        "__EMPTY_1": "Void Shift",
+        "__EMPTY_2": "You and the currently targeted party or raid member swap health percentages, Increases the lover health percentage of the two to 25% if below that amount.",
+        "__EMPTY_3": "Shadow",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false,
+        "__EMPTY_6": "Life Swap, Swap"
+      },
+      {
+        "WORLD OF WARCRAFT": "DarkArc",
+        "__EMPTY_1": "Dark Archangel",
+        "__EMPTY_2": "Increases your dmg, and the dmg of all allies with your Atonement by 15% for 8 sec.",
+        "__EMPTY_3": "Discipline",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "WORLD OF WARCRAFT": "Double Dispell",
+        "__EMPTY_1": "Purification",
+        "__EMPTY_2": "Purify now has a maximum of 2 charges",
+        "__EMPTY_3": "Discipline",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "WORLD OF WARCRAFT": "Archangel",
+        "__EMPTY_1": "Archangel",
+        "__EMPTY_2": "Refreshes the duration of your Atonement on all allies when cast. Increases your healing and absorption effects by 20% for 15%.",
+        "__EMPTY_3": "Discipline",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "__EMPTY": "ROGUE",
+        "WORLD OF WARCRAFT": "Blind",
+        "__EMPTY_1": "Blind",
+        "__EMPTY_2": "Blinds the target, causing it to wander disoriented for 1 min.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Cloak",
+        "__EMPTY_1": "Cloak of Shadows",
+        "__EMPTY_2": "Provides a moment of magic immunity, instantly removing all harmfull spell effects The cloak lingers, causing you to resist harmful spells for 5 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Vial",
+        "__EMPTY_1": "Crimson Vial",
+        "__EMPTY_2": "Drink an alchemical concoction that heals you for 20% of your max health over 4 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Evasion",
+        "__EMPTY_1": "Evasion",
+        "__EMPTY_2": "Increasing your dodge chances by 100% for 10 sec",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Feint",
+        "__EMPTY_1": "Feint",
+        "__EMPTY_2": "Performs an evasive maneuver, reducing dmg taken from area-of-effect attacks by 40% for 5 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Kick",
+        "__EMPTY_1": "Kick",
+        "__EMPTY_2": "A quick kick that interrupts spellcasting and prevents any spell in that school from being cast for 5 sec",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Kidney",
+        "__EMPTY_1": "Kidney Shot",
+        "__EMPTY_2": "Finishing move that stuns the target. Lasts longer per combo point",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Sap",
+        "__EMPTY_1": "Sap",
+        "__EMPTY_2": "Incapacitates a target not in combat for 1 min. Dmg will revive the target.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Shroud",
+        "__EMPTY_1": "Shroud of Concealment",
+        "__EMPTY_2": "Exten a cloak that shrouds party and raid members within 30 yards in shadows, providing stealth for 15 sec",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Vanish",
+        "__EMPTY_1": "Vanish",
+        "__EMPTY_2": "Allows you to vanish from sight, entering stealth while in combat",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Gouge",
+        "__EMPTY_1": "Gouge",
+        "__EMPTY_2": "Gouges the eyes of an enemy target, incapacitating for 4 sec. dmg will interrupt the effect",
+        "__EMPTY_3": "Outlaw",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Fan em out",
+        "__EMPTY_1": "Fan of Knives",
+        "__EMPTY_2": "Sprays knives at up to 8 targets within 10 yards, dealing dmg and applying your active poisons at their normal rate.",
+        "__EMPTY_3": "Assasination, Subtlety",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Garrote",
+        "__EMPTY_1": "Garrote",
+        "__EMPTY_2": "Garrote the enemy, causing damage over time and silence them for 6 sec when used from stealth",
+        "__EMPTY_3": "Assasination",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Step Kick",
+        "__EMPTY_1": "Shadow Step, Kick",
+        "__EMPTY_2": "When you combo your shadow step ability and kick to Interrupt your target",
+        "__EMPTY_3": "Assasination, Subtlety",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Vendetty",
+        "__EMPTY_1": "Vendetta",
+        "__EMPTY_2": "Marks an enemy for death for 20 sec, increasing the damage you deal by 30% to that target, also making them visable to you through stealth. Generates 60 energy over 3 sec",
+        "__EMPTY_3": "Assasination",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "MS",
+        "__EMPTY_1": "Wounding Poison",
+        "__EMPTY_2": "Coats your wpn with lethal poison reducing all healing received by 8% for 12 sec, stacking up to 5 times.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Dancing",
+        "__EMPTY_1": "Shadow Dance",
+        "__EMPTY_2": "Allows use of all Stealth abilities and grants all the combat benefits of Stealth for 8 sec and increases dmg by 15%. Effect not broken from taking dmg or attacking.",
+        "__EMPTY_3": "Subtlety",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Dueled",
+        "__EMPTY_1": "Shadowy Duel",
+        "__EMPTY_2": "You lock your target into a duel contained in the shadows, remvoing both of you form the eyes of onlookers for 6 sec, Allows access to Stealth - based abilities",
+        "__EMPTY_3": "Subtlety",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Bomb",
+        "__EMPTY_1": "Smoke Bomb",
+        "__EMPTY_2": "Creates a cloud of thick smoke in an 8 yard radius around the Rogue for 5 sec. Enemies are unable to target into or out of the smoke cloud.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "WORLD OF WARCRAFT": "Re",
+        "__EMPTY_1": "Re-Stealth",
+        "__EMPTY_2": "Drop combat and enter stealth",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "__EMPTY": "SHAMAN",
+        "WORLD OF WARCRAFT": "Wall",
+        "__EMPTY_1": "Astral Shift",
+        "__EMPTY_2": "Shift partially into the elemental planes, taking 40% less dmg for 8 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Lust",
+        "__EMPTY_1": "Bloodlust",
+        "__EMPTY_2": "Increases haste by 30% for all party and raid members for 40 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Cap totem",
+        "__EMPTY_1": "Capacitor Totem",
+        "__EMPTY_2": "Summons a totem at the target location - after 2 sec it explodes stunning all enemies within 8 yards for 3 sec",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Earth Ele",
+        "__EMPTY_1": "Earth Elemental",
+        "__EMPTY_2": "Calls forth a Greater Earth Elemental to protect you and your allies for 1 min",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Earthbind",
+        "__EMPTY_1": "Earthbind Totem",
+        "__EMPTY_2": "Summons a Earth totem at the target location for 20 sec that slows the movement speed of enemies within 10 yards by 50%",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "DOT",
+        "__EMPTY_1": "Flame Shock",
+        "__EMPTY_2": "Sears the target with fire, causing 200 fire dmg and then additonal dmg over time for 18 sec",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Slow",
+        "__EMPTY_1": "Frost Shock",
+        "__EMPTY_2": "Chills the target with frost, causing dmg and reducing the target's movement speed by 50% for 6 sec",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Healing Stream",
+        "__EMPTY_1": "Healing Stream Totem",
+        "__EMPTY_2": "A totem that heals an injured party or raid member within 40 yards for X amount every 1.8 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Hex",
+        "__EMPTY_1": "Hex",
+        "__EMPTY_2": "Transform the enemy into a frog for 1 min, only works on Humanoids and Beats.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_9": "Nature"
+      },
+      {
+        "WORLD OF WARCRAFT": "Purge",
+        "__EMPTY_1": "Purge",
+        "__EMPTY_2": "Purges the enemy target, removing 1 benefical magic effect",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Tremor",
+        "__EMPTY_1": "Tremor Totem",
+        "__EMPTY_2": "Summons a Totem at the feet of the caster for 10 sec, removing Fear, Charm and sleep effects from party and raid members within 30 yards",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Shear",
+        "__EMPTY_1": "Wind Shear",
+        "__EMPTY_2": "Disrupts the target's concentration with a bursts of wind, interrupting spellcasting and preventing any spell in that school from being cast for 3 sec",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Earth Shock",
+        "__EMPTY_1": "Earth Shock",
+        "__EMPTY_2": "Instantly shocks the target with concussive force, causing 3k Nature dmg",
+        "__EMPTY_3": "Elemental",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Fire Ele",
+        "__EMPTY_1": "Fire Elemental",
+        "__EMPTY_2": "Calls forth a Greater Fire Elemental to rain destruction on your enemies for 30 sec. ",
+        "__EMPTY_3": "Elemental",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Grounding",
+        "__EMPTY_1": "Grounding Totem",
+        "__EMPTY_2": "Summons an Air Totem at the feet of the caster that will redirect all harmful spells cast on a nearby party or raid member to istelf. Lasts 3 sec",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "WORLD OF WARCRAFT": "Lasso",
+        "__EMPTY_1": "Lightning Lasso",
+        "__EMPTY_2": "Grips the target in lighting, stunning and dealing 6k nature dmg over 5 sec while the target is lassoed. Can move while channeling.",
+        "__EMPTY_3": "Elemental",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false,
+        "__EMPTY_6": "Stun"
+      },
+      {
+        "WORLD OF WARCRAFT": "Skyfury",
+        "__EMPTY_1": "Skyfury Totem",
+        "__EMPTY_2": "A Fire Totem that increases the critcal effect of dmg and healing spells of all nearby allies within 40 yards by 20% for 15 sec",
+        "__EMPTY_3": "Elemental, Resto",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "WORLD OF WARCRAFT": "Stormkeeper",
+        "__EMPTY_1": "Stormkeeper",
+        "__EMPTY_2": "Charge yourself with lighting causing your next 2 Lighting Bolts to deal 150% more dmg and also causes your next 2 Lighting Bolts or Chain Lightings to be instant cast and trigger an Elemental Overload on every target",
+        "__EMPTY_3": "Elemental",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Knock",
+        "__EMPTY_1": "Thunderstrom",
+        "__EMPTY_2": "Calls down a bolt of Lighting dealing dmg to all enemies within 10 yards reducing their movement speed by 40% for 5 sec, and knocking them away from the Shaman, Usable while stunned.",
+        "__EMPTY_3": "Elemental",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Procs",
+        "__EMPTY_1": "Lava Surge Procs",
+        "__EMPTY_2": "Your Flame Chock dmg over time has a 13% chance to reset the remaining cooldown on Lava Burst and cause your next Lava Burst to be instant.",
+        "__EMPTY_3": "Elemental",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Windfury",
+        "__EMPTY_1": "Windury Totem",
+        "__EMPTY_2": "Party and raid members within 30 yards have a 10% chance when they auto attack to swing and extra time",
+        "__EMPTY_3": "Enchancement",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Healing Tide",
+        "__EMPTY_1": "Healing Tide Totem",
+        "__EMPTY_2": "Summons a healing Totem for 10 sec, which pulses every 1.8 sec healing all party or raid members within 40 yards for 3k",
+        "__EMPTY_3": "Restoration",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Mana Tide",
+        "__EMPTY_1": "Mana Tide Totem",
+        "__EMPTY_2": "Summons a Totem for 8 sec, granting 100% increased mana regeneration to allies within 20 yards.",
+        "__EMPTY_3": "Restoration",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "SLT",
+        "__EMPTY_1": "Spirit Link Totem",
+        "__EMPTY_2": "Summons a Totem at the target location for 6 sec, which reduces dmg taken by all party and raid members by 10%. Every 1 sec the health of all affected players is redistributed, such that all players are at the same percentage of max health.",
+        "__EMPTY_3": "Restoration",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Counterstrike",
+        "__EMPTY_1": "Counterstrike Totem",
+        "__EMPTY_2": "Summons a Totem for 15sec - whenever enemies within 20 yards of the totem deal direct dmg, the totem will deal 100% of the dmg dealt back to attacker",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Earthern",
+        "__EMPTY_1": "Earthenwall Totem",
+        "__EMPTY_2": "Summons a Totem for 15 sec, damage from each attack will be redirected to the totem.",
+        "__EMPTY_3": "Restoration",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "__EMPTY": "WARLOCK",
+        "WORLD OF WARCRAFT": "Axe Toss",
+        "__EMPTY_1": "Command Demon",
+        "__EMPTY_2": "The Felguard hurls its weapon, Stunning and interrupting the target for 4 sec.",
+        "__EMPTY_3": "Demonology",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Banish",
+        "__EMPTY_1": "Banish",
+        "__EMPTY_2": "Banishes an enemy Demon, Aberration, or Elemental, preventing any action for 30 sec. Limit 1",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Lock rocks",
+        "__EMPTY_1": "Healthstones",
+        "__EMPTY_2": "Use: Instatnly restores 25% health (1 min Cooldown)",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Lock candy, cookie"
+      },
+      {
+        "WORLD OF WARCRAFT": "Slow",
+        "__EMPTY_1": "Curse of Exhaustion",
+        "__EMPTY_2": "Reduces the target's movment speed by 50% for 12 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Port",
+        "__EMPTY_1": "Demonic Portal",
+        "__EMPTY_2": "Teleports you to you Demonic Circle and removes all movment slowing effects. 40 yrd range",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Gateway",
+        "__EMPTY_1": "Demonic Gateway",
+        "__EMPTY_2": "Creates a demonic gateway between two location. Activating the gateway transport the user to the other gateway. Each player can use a Demonic Gateway only once per 1.5 min",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Fear",
+        "__EMPTY_1": "Fear",
+        "__EMPTY_2": "Strikes fear in the enemy, disorienting for 20 sec. dmg may cancel the effect. Limit 1 ",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Tyrant",
+        "__EMPTY_1": "Summon Demonic Tyrant",
+        "__EMPTY_2": "Summon a Demonic Tyrant to increase the duration of all your current lesser demons by 15 sec, and increasing the dmg of all your other demons by 15% while damaging your target",
+        "__EMPTY_3": "Demonology",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Darkgalre",
+        "__EMPTY_1": "Summon Darkglare",
+        "__EMPTY_2": "Summons a Darkglare from the Nether that extends the duration of your dmg over time effects on all enemies by 8 sec. The Darkglare will serve you for 20 sec, blasting its target for dmg, increasing by 10% for every dmg over time effect you have active on any target.",
+        "__EMPTY_3": "Affliction",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "UA",
+        "__EMPTY_1": "Unstable Affliction",
+        "__EMPTY_2": "Afflicts one target with 3k dmg over 16 sec. If dispelled, deals 6k dmg to the dispeller and silences them for 4 sec.",
+        "__EMPTY_3": "Affliction",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_9": "Shadow"
+      },
+      {
+        "WORLD OF WARCRAFT": "BOLTS",
+        "__EMPTY_1": "Chaos Bolt",
+        "__EMPTY_2": "Unleashes a devastating blast of chaos, dealing a critcal strike for 3k dmg. Damage is further increased by your critical strike chance.",
+        "__EMPTY_3": "Destruction",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Havoc",
+        "__EMPTY_1": "Havoc",
+        "__EMPTY_2": "Marks a target with Havoc for 12 sec, causing your single target spells to also strike the Havoc victim for 60% of normal inital damage.",
+        "__EMPTY_3": "Destruction",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Infernal",
+        "__EMPTY_1": "Summon: Infernal",
+        "__EMPTY_2": "Summons an Inferal from the Nether, impacting for dmg and stunning all enemies in the area for 2 sec. The Infernal will serve you for 30 sec, dealing dmg to all nearby enemies every 1.7 sec and generationg 1 soul shard fragment every 0.5 sec.",
+        "__EMPTY_3": "Destruction",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Dark Soul",
+        "__EMPTY_1": "Dark Soul",
+        "__EMPTY_2": "Infuses your soul with unstable power, increasing your powers by a percentage for 20 sec",
+        "__EMPTY_3": "Affliction, Destruction",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Coil",
+        "__EMPTY_1": "Mortal Coil",
+        "__EMPTY_2": "Horrifies an enemy target into fleeing, incapacitatiing for 3 sec and healing you for 20% of max health.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Cata",
+        "__EMPTY_1": "Cataclysim",
+        "__EMPTY_2": "Calls forth a cataclysm at the target location, dealing dmg and afflictiong them with Immolate",
+        "__EMPTY_3": "Destruction",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Reflect",
+        "__EMPTY_1": "Nether Ward",
+        "__EMPTY_2": "Surrounds the caster with a shield that lasts 3 sec, reflecting all harmful spells cast on you.",
+        "__EMPTY_3": "Destruction",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "WORLD OF WARCRAFT": "Wall",
+        "__EMPTY_1": "Unending Resolve",
+        "__EMPTY_2": "Hardens your skin, reducing all dmg you take by 40% and grating immunity to interrupt, silence, and pushback effects for 8 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "__EMPTY": "WARRIOR",
+        "WORLD OF WARCRAFT": "Shout",
+        "__EMPTY_1": "Battle Shout",
+        "__EMPTY_2": "Increases the attack power of all party and raid memver within 100 yards by 5% for 1 hour.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Berserker Rage",
+        "__EMPTY_1": "Berserker Rage",
+        "__EMPTY_2": "Go berserk, removing and granting immunity to Fear, Sap, and incapacitate effects for 6 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Slow",
+        "__EMPTY_1": "Hamstring",
+        "__EMPTY_2": "Maims the enemy for 220 Physical damage, and reducing movment speed by 50% for 15 sec",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Slow"
+      },
+      {
+        "WORLD OF WARCRAFT": "Leap",
+        "__EMPTY_1": "Heroic Leap",
+        "__EMPTY_2": "Leap through the air toward a target location, slamming down with destructive force to deal dmg to all enemies within 8 yards",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Ignore Pain",
+        "__EMPTY_1": "Ignore Pain",
+        "__EMPTY_2": "Fight through the pain, ignoring 50% of dmg taken, up to 5k total dmg prevented.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Intervene ",
+        "__EMPTY_1": "Intervene",
+        "__EMPTY_2": "Run at high speed towards an ally, intercepting all melee and ranged attacks against them for 6 sec while they remain within 10 yds",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Interrupt",
+        "__EMPTY_1": "Pummel",
+        "__EMPTY_2": "Pummels the target, interrupting spellcasting and preventing any spell in that school from being cast for 4 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Rally",
+        "__EMPTY_1": "Rally Cry",
+        "__EMPTY_2": "Lets loose a rallying cry, grating all party or raid members within 40 yards 35% temporary and maximum health for 10 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Shatter",
+        "__EMPTY_1": "Shattering Throw",
+        "__EMPTY_2": "Hurl your weapon at the enemy, causing 1500 Physical dmg ingnoring armor, and removing any magical immunities. deals up to 500% increased dmg to absorb shields.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Spear",
+        "__EMPTY_1": "Spear of Bastion",
+        "__EMPTY_2": "Throw a Kyrian spear at the target location, dealing dmg instatnly and additianly dmg over 4 sec. Enemies hit are tethered to the Spears location for the duration",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Reflect",
+        "__EMPTY_1": "Spell Reflect",
+        "__EMPTY_2": "Raise your weapon, reflecting spells cast o you and reducing magical damage you take bye 20%. Lasts 5 sec or until a spell is reflected",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Storm",
+        "__EMPTY_1": "Storm Bolt",
+        "__EMPTY_2": "Hurls your weapon at an enemy, causing 300 dmg and stunning for 4 sec",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Parry",
+        "__EMPTY_1": "Die by the sword",
+        "__EMPTY_2": "Increases your parry chance by 100% and reduces all dmg you take by 30 % for 8 sec.",
+        "__EMPTY_3": "Arms",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true,
+        "__EMPTY_6": "Die by"
+      },
+      {
+        "WORLD OF WARCRAFT": "Disarm",
+        "__EMPTY_1": "Disarm",
+        "__EMPTY_2": "Disarm the enemy's weapons and shield for 6 sec. ",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "WORLD OF WARCRAFT": "MS",
+        "__EMPTY_1": "Mortal Strike",
+        "__EMPTY_2": "A vicious strike that deals dmg and reduces the effectiveness of healing on the target by 50% for 10 sec",
+        "__EMPTY_3": "Arms",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Warbreaker",
+        "__EMPTY_1": "Warbreaker",
+        "__EMPTY_2": "Smash the ground and shatter the armor of all enemies within 8 yds, dealing dmg and increasing dmg you deal to them by 30% for 10 sec.",
+        "__EMPTY_3": "Arms",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Avatar",
+        "__EMPTY_1": "Avatar",
+        "__EMPTY_2": "Transform into a colossus for 20 sec, causing you to deal 20% increased dmg and removing all roots and snares.",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Banner",
+        "__EMPTY_1": "War Banner",
+        "__EMPTY_2": "You throw down a war banner at your feet - increasing movement speed by 30% and reduces the duration of all incoming crowd control effects by 50% to all allies within 30 yards of the war banner, lasts 15 sec",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "WORLD OF WARCRAFT": "Sharpen",
+        "__EMPTY_1": "Sharpen Blade",
+        "__EMPTY_2": "When activated, your next Mortal Strike will deal 15% increased dmg and reduce healing taken by 50% for 6 sec.",
+        "__EMPTY_3": "Arms",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "WORLD OF WARCRAFT": "Overwatch",
+        "__EMPTY_1": "Overwatch",
+        "__EMPTY_2": "When you intervene an ally, they gain Spell Reflection for 5 sec or until a spell is reflected.",
+        "__EMPTY_3": "Arms",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "WORLD OF WARCRAFT": "Death Sentence",
+        "__EMPTY_1": "Death Sentence",
+        "__EMPTY_2": "Execute now has a 15 yard range, causing you to charge to targets when used.",
+        "__EMPTY_4": true,
+        "__EMPTY_5": false
+      },
+      {
+        "WORLD OF WARCRAFT": "D Stance",
+        "__EMPTY_1": "Defensive Stance",
+        "__EMPTY_2": "A defensive combat state that reduces all damage you take by 20% and all damage you deal by 10% lasts until cancelled",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "Fear",
+        "__EMPTY_1": "Intimidation Shout",
+        "__EMPTY_2": "Causes the targeted enemy to cower in fear, and up to 5 additional enemies within 8 yards to flee. Targets are disoriented for 8 sec.",
+        "__EMPTY_3": "All",
+        "__EMPTY_4": true,
+        "__EMPTY_5": true
+      },
+      {
+        "WORLD OF WARCRAFT": "WHAT YOU NEED TO KNOW"
+      },
+      {
+        "__EMPTY_2": "Trinket"
+      },
+      {
+        "__EMPTY_2": "Setup/Go"
+      },
+      {
+        "__EMPTY_1": "HP Bar",
+        "__EMPTY_2": "Health Bars"
+      },
+      {
+        "__EMPTY_1": "Blue Bar",
+        "__EMPTY_2": "Mana Bars"
+      },
+      {
+        "__EMPTY_1": "LOS",
+        "__EMPTY_2": "Line of Sight"
+      },
+      {
+        "__EMPTY_1": "CC",
+        "__EMPTY_2": "Crowd Control",
+        "__EMPTY_6": "(Re)"
+      },
+      {
+        "__EMPTY_2": "Diminishing Return"
+      },
+      {
+        "__EMPTY_1": "Spin the flag "
+      },
+      {
+        "__EMPTY_1": "Turtle"
+      },
+      {
+        "__EMPTY_8": "Other game ideas"
+      },
+      {
+        "__EMPTY_8": "Call of Duty: Warzone"
+      },
+      {
+        "__EMPTY_8": "League of Legends"
+      },
+      {
+        "__EMPTY_8": "Fortnite"
+      },
+      {
+        "__EMPTY_8": "Counter-Strike: GO"
+      },
+      {
+        "__EMPTY_8": "Grand Theft Auto"
+      }
+    ],
+    "Call of Duty Warzone": [
+      {
+        "__EMPTY": "CATEGORY",
+        "CALL OF DUTY: WARZONE": "TERM",
+        "__EMPTY_2": "TECHNICAL TERM",
+        "__EMPTY_3": "DEFINITION"
+      },
+      {
+        "__EMPTY": "MAP",
+        "CALL OF DUTY: WARZONE": "Cop"
+      },
+      {
+        "CALL OF DUTY: WARZONE": "Red "
+      },
+      {
+        "CALL OF DUTY: WARZONE": "Green "
+      },
+      {
+        "CALL OF DUTY: WARZONE": "Top "
+      },
+      {
+        "CALL OF DUTY: WARZONE": "Bottom"
+      },
+      {
+        "CALL OF DUTY: WARZONE": "Super"
+      },
+      {
+        "CALL OF DUTY: WARZONE": "Hotel"
+      },
+      {
+        "CALL OF DUTY: WARZONE": "Bank"
+      },
+      {
+        "CALL OF DUTY: WARZONE": "Hanger"
+      },
+      {
+        "CALL OF DUTY: WARZONE": "Gas Station"
+      },
+      {
+        "CALL OF DUTY: WARZONE": "Office"
+      },
+      {
+        "CALL OF DUTY: WARZONE": "Electrical"
+      },
+      {
+        "CALL OF DUTY: WARZONE": "Blue"
+      },
+      {
+        "CALL OF DUTY: WARZONE": "Buy"
+      },
+      {
+        "CALL OF DUTY: WARZONE": "Tities"
+      },
+      {
+        "CALL OF DUTY: WARZONE": "White"
+      },
+      {
+        "CALL OF DUTY: WARZONE": "Downtown"
+      },
+      {
+        "CALL OF DUTY: WARZONE": "Port"
+      }
+    ]
+}
+    

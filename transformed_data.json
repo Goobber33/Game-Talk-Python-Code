@@ -1,0 +1,2224 @@
+{
+    "World of Warcraft": [
+        {
+            "class": "CLASS",
+            "term": "TERM",
+            "technicalTerm": "TECHNICAL TERM",
+            "definition": "DEFINITION",
+            "specialization": "SPECIALIZATION",
+            "PvP": "PvP",
+            "PvE": "PvE",
+            "synonyms": "SYNONYMS",
+            "talents": "TALENTS",
+            "PvPTalents": "PVP TALENTS",
+            "schoolOfMagic": "SCHOOL OF MAGIC",
+            "covenant": "COVENANT"
+        },
+        {
+            "class": "COVENANT",
+            "term": "Night "
+        },
+        {
+            "term": "Venthyer"
+        },
+        {
+            "term": "K"
+        },
+        {
+            "term": "Necrolord"
+        },
+        {
+            "class": "RACIAL",
+            "term": "Arcane Torrent"
+        },
+        {
+            "term": "Blood Fury"
+        },
+        {
+            "term": "War Stomp"
+        },
+        {
+            "term": "Humaned",
+            "technicalTerm": "Will to Survive",
+            "definition": "Removes all stun effects."
+        },
+        {
+            "class": "COMMON",
+            "term": "Cleave",
+            "definition": "To do damage to multipule targets around a main target",
+            "PvP": true,
+            "PvE": true,
+            "__EMPTY_18": "Minecraft",
+            "__EMPTY_21": "Valorant",
+            "__EMPTY_24": "APEX",
+            "__EMPTY_27": "Dota 2"
+        },
+        {
+            "term": "Stun",
+            "definition": "Any ability that will stun the target",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Drink",
+            "definition": "To sit down and regain mana during a fight",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "term": "Root",
+            "definition": "To use an ability that immobilizes the target",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Battle Rez",
+            "technicalTerm": "Combat Rezerection",
+            "definition": "Casting a short rezerection during combat to revive a fallen party or raid member",
+            "synonyms": "B Rez"
+        },
+        {
+            "term": "Rez",
+            "technicalTerm": "Rezerection",
+            "definition": "Reviving someone who is dead "
+        },
+        {
+            "term": "Wall",
+            "technicalTerm": "Defensive",
+            "definition": "Any ability that reduces damage"
+        },
+        {
+            "term": "Make a Play",
+            "definition": "To set something up by yourself to devistake your opponents and make a sick play on the enemy team"
+        },
+        {
+            "term": "HOT",
+            "technicalTerm": "Healing Over Time",
+            "definition": "Generally used with druids but any spells with healing over a duration of time on targets"
+        },
+        {
+            "term": "Trinket",
+            "technicalTerm": "Galdiators Medalion",
+            "definition": "Removes morvment imparing effects (2min cooldown)"
+        },
+        {
+            "term": "DOT",
+            "technicalTerm": "Damage Over Time",
+            "definition": "Any spells or damaging abilities that do damage over a duration of time on targets"
+        },
+        {
+            "term": "1 Shot",
+            "definition": "Having all of your cooldowns and pressing them to kill someone/everyone ASAP"
+        },
+        {
+            "term": "Gank",
+            "definition": "When a group of ppl gang up on a single target to greef them."
+        },
+        {
+            "term": "Damage",
+            "definition": "Having cooldowns available to do dmg when needed"
+        },
+        {
+            "term": "Pleb",
+            "definition": "Lower than a noob, just oblivious"
+        },
+        {
+            "term": "CC",
+            "technicalTerm": "Crowd Control",
+            "definition": "Any spell or ability that takes control of another player"
+        },
+        {
+            "term": "Cover",
+            "definition": "Used when talking about Croud Controling (CC) another player to (cover) them from aiding the target of choice"
+        },
+        {
+            "term": "Go",
+            "definition": "When your team is about to set up a kill or (go) that involves cooldowns and coordination to cross CC and deal damage to a target of choice"
+        },
+        {
+            "term": "Pop",
+            "definition": "Pressing spells or abilities that generally are very powerful at dealing damage"
+        },
+        {
+            "term": "Spin",
+            "technicalTerm": "Spin the Flag",
+            "definition": "Use spells and abilities to disrupt the enemy team from taking over a base (most commonly used in RBGs)",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "term": "Kite",
+            "technicalTerm": "Run away",
+            "definition": "Generally used when a player is out ranging the attacks of a Melee player and keeping them at bay and not suffering any damage"
+        },
+        {
+            "term": "Crushing",
+            "definition": "Doing massive damage to an enemy player (Crushing Them)"
+        },
+        {
+            "term": "Immunitys",
+            "definition": "Spells and abilities that make you immune to damage "
+        },
+        {
+            "term": "Defuse",
+            "definition": "Respawnding to the enemy Go and rotating the proper cooldowns to medigate damage and Defuse the Go"
+        },
+        {
+            "term": "Bang",
+            "definition": "I have big damage lined out and im about to BANG this (X)"
+        },
+        {
+            "term": "Out",
+            "definition": "Having a way (out) by using cooldowns, trinkets, or immunitys to escape your opponetes "
+        },
+        {
+            "term": "Pillar",
+            "definition": "Using the map at your full advatage runing in and around the pillar to create your own line of sight"
+        },
+        {
+            "term": "Lined it",
+            "technicalTerm": "Line of Sight",
+            "definition": "I used line of sight to stop whatever cast or ability that was intended for me"
+        },
+        {
+            "term": "Stop",
+            "definition": "To defend, or to disrupt the enemy teams (go) or whatever they plan on doing"
+        },
+        {
+            "term": "Pre",
+            "technicalTerm": "Preemptive",
+            "definition": "To anticipate a play and react to it just before its about to happen"
+        },
+        {
+            "term": "Kick",
+            "definition": "To interupt a targets cast"
+        },
+        {
+            "term": "Crit",
+            "technicalTerm": "Critical Strike",
+            "definition": "Deals double the amount of damage to a target"
+        },
+        {
+            "term": "Tunnel",
+            "definition": "Head down, going all in (tunneling) a target to the ground"
+        },
+        {
+            "term": "Sitting",
+            "technicalTerm": "Not Trinketing",
+            "definition": "Opting not to trinket, or to get (out) of (CC)"
+        },
+        {
+            "term": "Cross CC",
+            "technicalTerm": "2 Targets in Crowd Control",
+            "definition": "To use spells and abilites together as a team to incapasitate two targets at once - Cross CC"
+        },
+        {
+            "term": "It's you",
+            "technicalTerm": "Your cooldowns",
+            "definition": "I'm not using my cooldowns or trinket, use yours- It's you"
+        },
+        {
+            "term": "Full CD's ",
+            "technicalTerm": "All my buttons",
+            "definition": "I literally have every button and im ready to pop off"
+        },
+        {
+            "term": "It's me",
+            "technicalTerm": "My cooldowns",
+            "definition": "Don't press anything, i got it - It's me"
+        },
+        {
+            "term": "DR",
+            "technicalTerm": "Diminishing Return",
+            "definition": "Once a spell with a specific category of (CC) is applied to a target, the next time it is applied, the duration is cut in half"
+        },
+        {
+            "class": "DEATH KNIGHT",
+            "term": "AMS",
+            "technicalTerm": "Anti-Magic Shell",
+            "definition": "Surrounds you in a Anti-Magic Shell absorbing magical damage and effects",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Shell"
+        },
+        {
+            "term": "AMZ",
+            "technicalTerm": "Anti-Magic Zone",
+            "definition": "Place an Anti-Magic Zone reducing spell damage taken by 20%",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Zone,"
+        },
+        {
+            "term": "Chains",
+            "technicalTerm": "Chains of Ice",
+            "definition": "Shackle the target, slowing movment speed by 70%",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Slow, Chains, Snare"
+        },
+        {
+            "term": "Blind",
+            "technicalTerm": "Blinding Sleet",
+            "definition": "Targets in a cone in front of you are blinded, causing them to wander disoriented for 5 sec. Damage may cancel the effect. When Blinding Sleet ends, enemies are slowed by 50% for 6 sec.",
+            "specialization": "Frost",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Grip",
+            "technicalTerm": "Death Grip",
+            "definition": "Draws the target towards you",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Icebound",
+            "technicalTerm": "Icebound Fortitude",
+            "definition": "Reducing all damage taken by 30% and granting immunity to stuns",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "IBF, Wall"
+        },
+        {
+            "term": "Stun",
+            "technicalTerm": "Asphyxiate",
+            "definition": "Dark energy that stuns the target for 4 seconds",
+            "specialization": "Frost, Unholy",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Pillar",
+            "technicalTerm": "Pillar of Frost",
+            "definition": "Increases your Strength by 20% for 12 seconds",
+            "specialization": "Frost",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Mass Grip",
+            "technicalTerm": "Gorefiend's Grasp",
+            "definition": "Tendrils coil around the target, pulling them to the target's location",
+            "specialization": "Blood",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Army",
+            "technicalTerm": "Army of the Dead",
+            "definition": "Summons a legion of ghouls who swarm your enemies for 30 seconds",
+            "specialization": "Unholy",
+            "PvP": false,
+            "PvE": true
+        },
+        {
+            "term": "Pet Kick",
+            "technicalTerm": "Leap",
+            "definition": "During Dark Transformation: Charge an enemy, interupting spellcasting and immoblizing them for 2 seconds.",
+            "specialization": "Unholy",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Chill Streak",
+            "technicalTerm": "Chill Streak",
+            "definition": "Deals damage and slows the target bouncing up to 9 times between closest targets within 6 yards",
+            "specialization": "Frost",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "term": "Death",
+            "technicalTerm": "Deaths Advance",
+            "definition": "For 8 sec, your movement speed is increased by 30%, you cannot be slowed below 100% of normal speed, and you are immune to forced movement effects and knockbacks.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Dark Sim",
+            "technicalTerm": "Dark Simulacrum",
+            "definition": "Places a ward on a play for 12 seconds - Next mana spending spell the Death Knight will duplicate that spell",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "class": "DEMON HUNTER",
+            "term": "Wall",
+            "technicalTerm": "Blur",
+            "definition": "Increase your chance to dodge by 50% and reduces all damage taken by 20% for 10 sec.",
+            "specialization": "Havoc",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Purge",
+            "technicalTerm": "Consume Magic",
+            "definition": "Consume 1 benefical Magic effect removing to from the target and granting you 20 Fury",
+            "specialization": "Havoc",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Incap",
+            "technicalTerm": "Imprison",
+            "definition": "Imprisons a demon, beast, or humanoid, incapacitating them for 1 min. Damage will cancel the effect. Limit 1",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Prison"
+        },
+        {
+            "term": "Meta",
+            "technicalTerm": "Metamorphosis",
+            "definition": "Transforme into a hellish demon for 30 sec, empowering your abilities and gain 25% and 25% leech.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Darkness",
+            "technicalTerm": "Darkness",
+            "definition": "Summons darkness around you in an 8 yd radius, granting friendly targets a 20% chance to avoid all damage from an attack. Lasts 8 seconds",
+            "specialization": "Havoc",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Dark"
+        },
+        {
+            "term": "Mana burn",
+            "technicalTerm": "Mana Rift",
+            "definition": "Place a 6 yard rift under the feet of the target - once it erupts it consumes 8% of health and 8% mana from each player inside the rift",
+            "specialization": "Havoc",
+            "PvP": true,
+            "PvE": true,
+            "talents": false,
+            "PvPTalents": true
+        },
+        {
+            "term": "Reverse",
+            "technicalTerm": "Reverse Magic",
+            "definition": "Removes all harmful magical effects from yourself and all nearby allies within 10 yards - In addition sends them back to their origanal caster if possible",
+            "specialization": "Havoc",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Dispell",
+            "talents": true
+        },
+        {
+            "term": "Nether",
+            "technicalTerm": "Nether Walk",
+            "definition": "Slip into the nether, increasing movement speed by 100% and becoming immune to damage, but unable to attack, Lasts 5 sec.",
+            "specialization": "Havoc",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Immunity"
+        },
+        {
+            "term": "AOE Stun",
+            "technicalTerm": "Chaos Nova",
+            "definition": "Unleash an eruption of fel energy, dealing dmg and stunning all nearby enemies for 2 sec.",
+            "specialization": "Havoc",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Stun"
+        },
+        {
+            "class": "DRUID",
+            "term": "Incap",
+            "technicalTerm": "Incapacitating Roar",
+            "definition": "Shift into Bear Form and roar, incapacitating all enemies within 15 yards for 3 sec. Damage will cancel the effect.",
+            "specialization": "Guardian, Guardian Affinity",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Roar"
+        },
+        {
+            "term": "Incarn",
+            "technicalTerm": "Incarnation",
+            "definition": "An improved Moonkin Form that grants the benefits of Celestial Alignment, and 10% critcal strike chance - Lasts 30 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Big dam"
+        },
+        {
+            "term": "Innervate",
+            "technicalTerm": "Innervate",
+            "definition": "Infuse a friendly healer with energy, allowing themto cast spells without spending mana for 10 sec.",
+            "specialization": "Balance, Resto",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Form",
+            "technicalTerm": "Any Shapeshifted Form",
+            "definition": "Cat Form, Bear Form, Moonkin Form, Travel Form, Auqa Form",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Boomy, Balance, Owl, Owl Form"
+        },
+        {
+            "term": "De-Curse",
+            "technicalTerm": "Remove Corruption",
+            "definition": "Removes all curse and poisons effects on a friendly target",
+            "specialization": "Balance",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Dispell"
+        },
+        {
+            "term": "Root Beam",
+            "technicalTerm": "Mass Entanglement",
+            "definition": "to mass entangle one or more targets in a blanket silence of a solar beam",
+            "specialization": "BALANCE",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Beam"
+        },
+        {
+            "term": "Knock",
+            "technicalTerm": "Typhoon",
+            "definition": "Blasts targets within 20 yards in front of you, knocking them back and dazing them for 6 seconds",
+            "specialization": "Balance",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Rake Stun",
+            "technicalTerm": "Rake",
+            "definition": "While stealthed, Rake will also stun the target for 4 sec",
+            "specialization": "Feral",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Stun"
+        },
+        {
+            "term": "Wall",
+            "technicalTerm": "Barkskin",
+            "definition": "Your skin becomes as though as bark, reducing all damage you take by 20%",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Skin"
+        },
+        {
+            "term": "NS",
+            "technicalTerm": "Natures Swiftness",
+            "definition": "Your next Regrowth, Rebirth, or Entangling Roots is instant, free, castable in all forms, and heals for an additional 100",
+            "specialization": "Restoration",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Big Heal"
+        },
+        {
+            "term": "Vortex",
+            "technicalTerm": "Ursols Vortex",
+            "definition": "Conjures a vortex of wind for 10 sec at the destination, reducing the movment speed of all enemies within 8 yards by 50%. The first time an enemy attempts to leave the vortex, winds will pull that enemy back to its center.",
+            "specialization": "Restoration, Restoration Affinity",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Grip"
+        },
+        {
+            "term": "Disarm",
+            "technicalTerm": "Faerie Swarm",
+            "definition": "Disarms the enemy, preventing the use of any weapons or shield and recuing movement speed by 30% for 5 sec.",
+            "specialization": "Balance",
+            "PvP": true,
+            "PvE": false,
+            "talents": true
+        },
+        {
+            "term": "Thorns",
+            "technicalTerm": "Thorns",
+            "definition": "Sprout thorns for 12 sec, when struck by melee attacks thorns deals dmg back at the attacker, also reducing their speed by 50% for 4 sec.",
+            "specialization": "Balance, Resto, Feral",
+            "PvP": true,
+            "PvE": false,
+            "talents": true
+        },
+        {
+            "term": "Clone",
+            "technicalTerm": "Cyclone",
+            "definition": "Tosses the enemy target into the air, making them invulnerable for up to 6 seconds",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "schoolOfMagic": "Nature"
+        },
+        {
+            "term": "Stealth",
+            "technicalTerm": "Prowl",
+            "definition": "To go invisible",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Regen",
+            "technicalTerm": "Frenzied Regeneration",
+            "definition": "Heals you for 32% health over 3 sec.",
+            "specialization": "Guardian, Guardian Affinity",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Regeneration"
+        },
+        {
+            "class": "HUNTER",
+            "term": "Cheetah",
+            "technicalTerm": "Aspect of the Cheetah",
+            "definition": "Increase your movement speed by 90% for 5 sec, and then by 30% for another 9sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Sprint"
+        },
+        {
+            "term": "Turtle",
+            "technicalTerm": "Aspect of the Turtle",
+            "definition": "Deflects all attacks and ruduces all damage you take by 30% for 8 sec, but you cannot attack",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Heal",
+            "technicalTerm": "Exhilaration",
+            "definition": "Heals you for 30% of maximum health",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Feign",
+            "technicalTerm": "Feign Death",
+            "definition": "Feign death, tricking enemies into ignoring you. Lasts up to 6 min",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Flare",
+            "technicalTerm": "Flare",
+            "definition": "Exposes all hidden and invisible enemies within the tergeted area for 20 sec",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Trap",
+            "technicalTerm": "Ice Trap",
+            "definition": "Hurls a frost trap to the target location that incapacitates the first enemy that approaches for 1 min",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Execute",
+            "technicalTerm": "Kill Shot",
+            "definition": "You attempt to finish off a wounded target, dealing dmg. Only usable on enemies with less than 20% health.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Pet heal",
+            "technicalTerm": "Mend Pet",
+            "definition": "Heals your pet for 50% of its total health over 10 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Fear",
+            "technicalTerm": "Scare beast",
+            "definition": "Scares a beast, causing it to run in fear for up to 20 sec",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Wall",
+            "technicalTerm": "Survival of the Fittest",
+            "definition": "Reduces all damage you take by 20% for 6 sec. ",
+            "specialization": "Marksmanship",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Purge",
+            "technicalTerm": "Tranquilizing Shot",
+            "definition": "Removes 1 enrage and 1 magic effect from an enemy target",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Root",
+            "technicalTerm": "Binding Shot",
+            "definition": "Fires a magical projectile, enemies within 5 yards atempting to move more than 5 yards will be rooted for 8 seconds",
+            "specialization": "Marksmanship",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Knock",
+            "technicalTerm": "Hi-Explosive Trap",
+            "definition": "Hurls a fire trap to thte target location that explodes when an enemy approches, causing dmg and kocking all enemies away.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": false,
+            "talents": false,
+            "PvPTalents": true
+        },
+        {
+            "term": "Stealth",
+            "technicalTerm": "Camouflage",
+            "definition": "You and your pet blend into the surroundings and gain stealth for 1 min.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "talents": true
+        },
+        {
+            "term": "Scatter",
+            "technicalTerm": "Scatter Shot",
+            "definition": "A short-range shot that deals dmg and removes all harmful DOT effects and incapacitates the target for 4 sec.",
+            "specialization": "Marksmanship",
+            "PvP": true,
+            "PvE": false,
+            "talents": false,
+            "PvPTalents": true
+        },
+        {
+            "term": "Slow",
+            "technicalTerm": "Concussive Shot",
+            "definition": "Dazes the target, slowing movement speed by 50% for 6 sec",
+            "specialization": "Marksmanship, BM",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Silence",
+            "technicalTerm": "Counter Shot",
+            "definition": "Interrupts spellcasting, preventing any spell in that school from being cast for 3 sec.",
+            "specialization": "Marksmanship, BM",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Stun",
+            "technicalTerm": "Intimidation",
+            "definition": "Commands your pet to intimidate the target, stunning it for 5 sec.",
+            "specialization": "BM",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Charge",
+            "technicalTerm": "Harpoon",
+            "definition": "Hurls a harpoon at an enemy, rooting them in place for 3 sec and pulling you to them",
+            "specialization": "Survival",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Sac",
+            "technicalTerm": "Roar of Sacrifice",
+            "definition": "Instructs your pet to protect a friendly target from citrical strikes, making attacks against that target unable to be critical struck, 20% of dmg is directed to pet. Lasts 12 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": false,
+            "talents": false,
+            "PvPTalents": true
+        },
+        {
+            "class": "MAGE",
+            "term": "Buff",
+            "technicalTerm": "Arcane Intellect",
+            "definition": "Infuses the target with brilliance, increasing their intellect by 5% for 1 hour.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Mage food",
+            "technicalTerm": "Mana Buns",
+            "definition": "Conjures mana food for you and your allies",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "CS",
+            "technicalTerm": "Counter Spell",
+            "definition": "Counters the enemy's spellcast, preventing any spell from that school of magic from being cast for 6 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Nova",
+            "technicalTerm": "Ice Nova",
+            "definition": "Blasts enemies within 12 yds of you for frost dmg and freezes them in place for 10 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Root"
+        },
+        {
+            "term": "Block",
+            "technicalTerm": "Ice Block",
+            "definition": "Encases you in a block of ice, protecting you from all attacks and dmg for 10 sec, but during that time you cannot attack, move, or cast spells.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Wall",
+            "technicalTerm": "Mirror images",
+            "definition": "Creates 3 copies of you nearby for 40 sec, which cast spells and attack your enemies.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Images"
+        },
+        {
+            "term": "Poly",
+            "technicalTerm": "Polymorph",
+            "definition": "Transfroms the enemy into a sheep, wandering around incapacitated for 1 min, dmg will break this effect.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Sheep",
+            "schoolOfMagic": "Arcane"
+        },
+        {
+            "term": "Port",
+            "technicalTerm": "Portal",
+            "definition": "Creates a portal, teleporting group members that use it to a major city",
+            "specialization": "All",
+            "PvP": false,
+            "PvE": true
+        },
+        {
+            "term": "De-Curse",
+            "technicalTerm": "Remove Curse",
+            "definition": "Removes all Curse from a friendly target.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Lust",
+            "technicalTerm": "Time Warp",
+            "definition": "Warp the flow of time, increasing haste by 30% for all party and raid members for 40 sec.",
+            "specialization": "All",
+            "PvP": false,
+            "PvE": true
+        },
+        {
+            "term": "Blink",
+            "technicalTerm": "Shimmer, Blink",
+            "definition": "Teleports you 20 yards forward, unless something is in the way, Unaffected by the global cooldown and castable while casting.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Will",
+            "technicalTerm": "Will of the foresaken",
+            "definition": "Removes any Charm, Fear and Sleep effect",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Alter",
+            "technicalTerm": "Alter Time",
+            "definition": "Alters the fabric of time, returning you to your current locastion and health when a cast a second time or after 10 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Combust",
+            "technicalTerm": "Combustion",
+            "definition": "For 10 sec, increases your spells' critcal strike chance by 100% and granting you mastery equal to 50% your critical strike stat. castable while casting other spells",
+            "specialization": "Fire",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "DB",
+            "technicalTerm": "Dragons Breath",
+            "definition": "Enemies in a cone in front of you take dmg and are disoriented for 4 sec, dmg will cancel the effect",
+            "specialization": "Fire",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Klepto",
+            "technicalTerm": "Kleptomania",
+            "definition": "Spellsteal now has a 30 sec cooldown, but steals all spells from the target.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": false,
+            "synonyms": "Spellsteal"
+        },
+        {
+            "class": "MONK",
+            "term": "Dispell",
+            "technicalTerm": "Detox",
+            "definition": "Removes all Magic, Poison, and Disease effects from the target",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Dispell, Cleasne"
+        },
+        {
+            "term": "Wall",
+            "technicalTerm": "Fortifiying Brew",
+            "definition": "Fort Brew - Turns your skin to stone, increasing HP by 15% and reducing dmg taken by 15%   ",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Wall",
+            "technicalTerm": "Dampen Harm",
+            "definition": "Dampen Harm - Reduces all dmg you take by 20% to 50% for 10 sec",
+            "PvP": true,
+            "PvE": true,
+            "talents": true
+        },
+        {
+            "term": "Stun",
+            "technicalTerm": "Leg Sweep",
+            "definition": "Knocks down all enemies within 6 yards, stunning them for 3 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Leg, Sweep"
+        },
+        {
+            "term": "Incap",
+            "technicalTerm": "Paralasis",
+            "definition": "Incapacitates the target for 1 min.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "TOD",
+            "technicalTerm": "Touch of Death",
+            "definition": "You exploit the enemy target's weakest point - Deals dmg equal to 35% of your max health against players under 15% health",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Exictue"
+        },
+        {
+            "term": "Port",
+            "technicalTerm": "Transendance",
+            "definition": "Place your spirit at a location, while in range use Transcendence: Transfer - Your body and spirit swap locations",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Kyrian",
+            "technicalTerm": "Weapons of Order",
+            "definition": "For the next 30 sec, your mastery is increased by a precentage and making class specialization abailty enchanced",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Slow",
+            "technicalTerm": "Disable",
+            "definition": "Reduces the target's movment speed by 50% - use a second time to root them in place for 8 sec.",
+            "specialization": "WindWalker",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Fists",
+            "technicalTerm": "Fist of Fury",
+            "definition": "Pummels all targets in front of you dealing dmg. Channeled while moving (pvp talent: Turbo fists - reduces all targets movement speed while 90% and you parry all attacks while channelling Fist of fury)",
+            "specialization": "WindWalker",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Tiger",
+            "technicalTerm": "Tigers Lust",
+            "definition": "Increases a friendlys target's movment speed by 70% for 6 sec and removes all roots and snares.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Freedom"
+        },
+        {
+            "term": "Ring",
+            "technicalTerm": "Ring of Peace",
+            "definition": "Form a Ring of Peace at the targets location for 5 sec. Enemies that enter will be ejected from the Ring.",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Ring, Knock",
+            "talents": true
+        },
+        {
+            "term": "RSK",
+            "technicalTerm": "Rising Sun Kick",
+            "definition": "Kick upwards, dealing dmg and reducing the effectivness of healin gon the target for 10 sec.",
+            "specialization": "WindWalker",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Interupt",
+            "technicalTerm": "Hand and Spear",
+            "definition": "Jabs the target in the throat, interrupting spellcasting and preventing any spell from that school of magic from being cast for 4 sec",
+            "specialization": "WindWalker, Brewmaster",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Images",
+            "technicalTerm": "Storm, Earth and Fire",
+            "definition": "Split into 3 elemental spirits for 15 sec, each spirit dealing 45% of normal dmg and healing",
+            "specialization": "WindWalker",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Karma",
+            "technicalTerm": "Touch of Karma",
+            "definition": "Absorbs all dmg taken for 10 sec, up to 50% of your maximum health, and redirects 70% of that amount to the enemy target as nature dmg over 6 sec.",
+            "specialization": "WindWalker",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Cocoon",
+            "technicalTerm": "Life Cocoon",
+            "definition": "Encases the target in a cocoon of Chi energy for 12 sec, absorbing 25k damage",
+            "specialization": "Mistweaver",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Disarm",
+            "technicalTerm": "Grapple Weapon",
+            "definition": "You fire off a rope spear, grappling the target's weapons and sheild, returning them to you for 6 sec.",
+            "PvP": true,
+            "PvE": false,
+            "talents": false,
+            "PvPTalents": true
+        },
+        {
+            "class": "PALADIN",
+            "term": "Wings",
+            "technicalTerm": "Avenging Wrath",
+            "definition": "Call upon the Light, increasing your dmg, healing, and critical strike chance by 30% for 20 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Freedom",
+            "technicalTerm": "Blessing of Freedom",
+            "definition": "Blesses a party or raid member, granting immunity to movement impairing effects for 8 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "BOP",
+            "technicalTerm": "Blessing of Protection",
+            "definition": "Blesses a party or raid member, granting immunity to Physical dmg and harmful effects for 10 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "SAC",
+            "technicalTerm": "Blessing of Sacrifice",
+            "definition": "Blesses a party or raid member, reducing their dmg taken by 30%, but you suffer 75% of damage prevented.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "AURA",
+            "technicalTerm": "Aura Mastery",
+            "definition": "Empwers your chosen aura for 8 sec.",
+            "specialization": "Holy",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "CONC",
+            "technicalTerm": "Concentration Aura",
+            "definition": "Affected allies immune to interrupts and silences.",
+            "specialization": "Holy",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Devo",
+            "technicalTerm": "Devotion Aura",
+            "definition": "Damage reduction increased to 15%",
+            "specialization": "Holy",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Bubble",
+            "technicalTerm": "Divine Shield",
+            "definition": "Grants immunity to all damage and harful effects for 8 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Divine Toll",
+            "technicalTerm": "Divine Toll",
+            "definition": "Instantly cast holy shock, Avenger's Shield, or Judgment on up to 5 targets winthin 30 yds (Based on your current specialization)",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "HOJ",
+            "technicalTerm": "Hammer of Justice",
+            "definition": "Stuns the target for 6 sec",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Stun"
+        },
+        {
+            "term": "WOD",
+            "technicalTerm": "Word of Glory",
+            "definition": "Calls down the Light to heal a friendly for 6,553.",
+            "specialization": "Holy",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Becan Proc",
+            "technicalTerm": "Saved by the Light",
+            "definition": "When an ally with your Beacon of Light is damaged below 30% health, they absorb the next 8,296 damage. 1 min cooldown.",
+            "specialization": "Holy",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Dispell",
+            "technicalTerm": "Cleanse",
+            "definition": "Cleanses a friendly target, removing all Poison, Disease, and Magic effects.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Walled",
+            "technicalTerm": "Divine Protection",
+            "definition": "Reduces all damage you take by 20% for 8 sec.",
+            "specialization": "Holy",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Wall"
+        },
+        {
+            "term": "Shield",
+            "technicalTerm": "Shield of Vengence",
+            "definition": "Creates a barrier of holy light that absorbs 15k damage for 15 sec. When the Sheild expires, it burts to inflict Holy damage equal to the total amount absorbed, split to all nearby enemies.",
+            "specialization": "Ret",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Wake",
+            "technicalTerm": "Wake of Ashes",
+            "definition": "Lash out at your enemies, dealing 5k Radiant dmg to all enemies within 12 yd in front of you and reducing their movment speed by 50% for 5 sec. ",
+            "specialization": "Ret",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Divine Fav",
+            "technicalTerm": "Divine Favor",
+            "definition": "Your next Holy Light or Flash of Light is increased by 100%, casts 30% faster, and is unable to be interrupted.",
+            "specialization": "Holy",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "class": "PRIEST",
+            "term": "Fade",
+            "technicalTerm": "Fade, Greater Fade",
+            "definition": "Fade out, removing all threat, increasing your movement speed by 50% and causing most melee, ranged and spells to miss you. Lasts 4 seconds or until you take a hostile action.",
+            "specialization": "Holy, Shadow",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "term": "Grip",
+            "technicalTerm": "Leap of Faith",
+            "definition": "Pulls the spirit of a party or raid member, instantly moving them directly in front of you",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "MD",
+            "technicalTerm": "Mass Dispell",
+            "definition": "Dispels magic in a 15 yard radius, removing all harmful magic from 5 friendly targets and 1 beneficial magic effect from 5 enemy targets. Potent enough to remove magic that in normally undispellable.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "MC",
+            "technicalTerm": "Mind Control",
+            "definition": "Controls a mind up to 1 level above yours for 30 sec. Shares diminishing returns with other disorienting effects.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Mindgames",
+            "technicalTerm": "Mindgames",
+            "definition": "Assault an enemy's mind, dealing 9k dmg and briefly reversing their perception of reality. For 7 sec, the next 10k dmg they deal will heal their target, and the next 10k healing they deal will dmg their target.",
+            "PvP": true,
+            "PvE": true,
+            "schoolOfMagic": "Shadow"
+        },
+        {
+            "term": "PI",
+            "technicalTerm": "Power Infusion",
+            "definition": "Infuses the target with power for 20 sec, increasing haste by 25%",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Fort",
+            "technicalTerm": "Power Word: Fortitude",
+            "definition": "Infuses the target with vitality, increasing their Stamina by 5% for 1 hour.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Fear",
+            "technicalTerm": "Psychic Scream",
+            "definition": "Lets out a psychic scream, causing 5 enemies within 8 yards to flee, disorienting them for 8 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Shackle",
+            "technicalTerm": "Shackle Undead",
+            "definition": "Shackle an undead enemy for 50 sec, preventing all actions and movement.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Death",
+            "technicalTerm": "Shadow Word: Death",
+            "definition": "A word of dark binding that inflicts 1,500 Shadow dmg to the target. If the target is not killed by Shadow Word: Death, the caster takes dmg equal to the dmg inflicted upon the target.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Feather",
+            "technicalTerm": "Angelic Feathers",
+            "definition": "Places a feather at the target location, granting the first ally to walk through it 40% increased movement speed for 5 sec. Only 3 feathers can be placed at one time. 3 charges",
+            "specialization": "Holy, Disipline",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "GS",
+            "technicalTerm": "Gardian Spirit",
+            "definition": "Calls upon a guardin spirit to watch over the friendly target for 10 sec, increasing healing received by 60% and preventing the target from dying by sacrificing itself for 40% of maximum health, castable while stunned.",
+            "specialization": "Holy",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Stun",
+            "technicalTerm": "Holy Word: Chastize",
+            "definition": "Chastises the target for 3k dmg and stuns them for 4 sec",
+            "specialization": "Holy",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Serenity",
+            "technicalTerm": "Holy Word: Serenity",
+            "definition": "Performs a miracle, healing an ally for 14k",
+            "specialization": "Holy",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "PS",
+            "technicalTerm": "Pain Supression",
+            "definition": "Reduces all dmg taken by a friendly target by 40% for 8 sec. Castable while stunned",
+            "specialization": "Discipline",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Barrier",
+            "technicalTerm": "Holy Word: Barrier",
+            "definition": "Summons a holy barrier to protect all allies at the target location for 10 sec, reducing all dmg taken by 25% and preventing dmg from delaying spellcasting.",
+            "specialization": "Discipline",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Radiance",
+            "technicalTerm": "Power Word: Radiance",
+            "definition": "A burst of light heals the target and 4 injured allies within 30 yards for 2k, and apllies Atonement for 60% of its normal duration. Max 2 charges",
+            "specialization": "Discipline",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Rapture",
+            "technicalTerm": "Rapture",
+            "definition": "Immediately Power Word: Shield your target, and for the next 8 sec, Power Word: Shield absorbs an additional 200% and may be cast on targets with weakened soul.",
+            "specialization": "Discipline",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Fiend",
+            "technicalTerm": "Shadowfiend",
+            "definition": "Summons a shadowy fiend to attack the target for 15sec - Generates 1% Mana each time the Shadowfiend attacks.",
+            "specialization": "Discipline, Shadow",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "DP",
+            "technicalTerm": "Devouring Plague",
+            "definition": "Afflicts the target with a disease that instatnly casues 1,200 dmg plus an additional 2400 dmg over 6 sec. Heals you for 50% of dmg dealt.",
+            "specialization": "Shadow",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Dispers",
+            "technicalTerm": "Dispersion",
+            "definition": "Disperse into pure shadow energy, reducing all dmg taken by 75% for 6 sec, but you are unable to attack or cast spells. Increases movement speed by 50% and makes you immune to all movement impairing effects. Castable while stunned, feared or silenced",
+            "specialization": "Shadow",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Mend",
+            "technicalTerm": "Shadow Mend",
+            "definition": "Wraps an ally in shadows which heal for 7k but at a price - The ally will take dmg every 1 sec, until they have taken 4k total dmg from all sources or leave combat.",
+            "specialization": "Discipline, Shadow",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "VE",
+            "technicalTerm": "Vampiric Embrace",
+            "definition": "Fills you with the embrace of Shadow energy for 15 sec, causing you to heal a nearby ally for 85% of any single-target Shado spell dmg you deal.",
+            "specialization": "Shadow",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "VT",
+            "technicalTerm": "Vampiric Touch",
+            "definition": "A touch of darkness that causes 4k dmg over 21 sec, and heals you for 50% of dmg dealt. If VT is dispelled, the dispeller flees in Horror for 3 sec.",
+            "specialization": "Shadow",
+            "PvP": true,
+            "PvE": true,
+            "schoolOfMagic": "Shadow"
+        },
+        {
+            "term": "Thought Steal",
+            "technicalTerm": "Thoughtsteal",
+            "definition": "Peer into the mind of the enemy, attempting to steal a known spell. If stolen, the victim cannot cast that spell for 20 sec. ",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "term": "Psyfiend",
+            "technicalTerm": "Psyfiend",
+            "definition": "Summons a Psyfiend with 10 hp for 12 sec besides you to attack the target at range with Psyfly - Deals up to 1% of the target's total health in shadow dmg every 0.8 sec. Also slows their movement speed by 50% and reduces healing received by 50%",
+            "specialization": "Shadow",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "term": "Swap",
+            "technicalTerm": "Void Shift",
+            "definition": "You and the currently targeted party or raid member swap health percentages, Increases the lover health percentage of the two to 25% if below that amount.",
+            "specialization": "Shadow",
+            "PvP": true,
+            "PvE": false,
+            "synonyms": "Life Swap, Swap"
+        },
+        {
+            "term": "DarkArc",
+            "technicalTerm": "Dark Archangel",
+            "definition": "Increases your dmg, and the dmg of all allies with your Atonement by 15% for 8 sec.",
+            "specialization": "Discipline",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "term": "Double Dispell",
+            "technicalTerm": "Purification",
+            "definition": "Purify now has a maximum of 2 charges",
+            "specialization": "Discipline",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "term": "Archangel",
+            "technicalTerm": "Archangel",
+            "definition": "Refreshes the duration of your Atonement on all allies when cast. Increases your healing and absorption effects by 20% for 15%.",
+            "specialization": "Discipline",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "class": "ROGUE",
+            "term": "Blind",
+            "technicalTerm": "Blind",
+            "definition": "Blinds the target, causing it to wander disoriented for 1 min.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Cloak",
+            "technicalTerm": "Cloak of Shadows",
+            "definition": "Provides a moment of magic immunity, instantly removing all harmfull spell effects The cloak lingers, causing you to resist harmful spells for 5 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Vial",
+            "technicalTerm": "Crimson Vial",
+            "definition": "Drink an alchemical concoction that heals you for 20% of your max health over 4 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Evasion",
+            "technicalTerm": "Evasion",
+            "definition": "Increasing your dodge chances by 100% for 10 sec",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Feint",
+            "technicalTerm": "Feint",
+            "definition": "Performs an evasive maneuver, reducing dmg taken from area-of-effect attacks by 40% for 5 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Kick",
+            "technicalTerm": "Kick",
+            "definition": "A quick kick that interrupts spellcasting and prevents any spell in that school from being cast for 5 sec",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Kidney",
+            "technicalTerm": "Kidney Shot",
+            "definition": "Finishing move that stuns the target. Lasts longer per combo point",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Sap",
+            "technicalTerm": "Sap",
+            "definition": "Incapacitates a target not in combat for 1 min. Dmg will revive the target.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Shroud",
+            "technicalTerm": "Shroud of Concealment",
+            "definition": "Exten a cloak that shrouds party and raid members within 30 yards in shadows, providing stealth for 15 sec",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Vanish",
+            "technicalTerm": "Vanish",
+            "definition": "Allows you to vanish from sight, entering stealth while in combat",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Gouge",
+            "technicalTerm": "Gouge",
+            "definition": "Gouges the eyes of an enemy target, incapacitating for 4 sec. dmg will interrupt the effect",
+            "specialization": "Outlaw",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Fan em out",
+            "technicalTerm": "Fan of Knives",
+            "definition": "Sprays knives at up to 8 targets within 10 yards, dealing dmg and applying your active poisons at their normal rate.",
+            "specialization": "Assasination, Subtlety",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Garrote",
+            "technicalTerm": "Garrote",
+            "definition": "Garrote the enemy, causing damage over time and silence them for 6 sec when used from stealth",
+            "specialization": "Assasination",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Step Kick",
+            "technicalTerm": "Shadow Step, Kick",
+            "definition": "When you combo your shadow step ability and kick to Interrupt your target",
+            "specialization": "Assasination, Subtlety",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Vendetty",
+            "technicalTerm": "Vendetta",
+            "definition": "Marks an enemy for death for 20 sec, increasing the damage you deal by 30% to that target, also making them visable to you through stealth. Generates 60 energy over 3 sec",
+            "specialization": "Assasination",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "MS",
+            "technicalTerm": "Wounding Poison",
+            "definition": "Coats your wpn with lethal poison reducing all healing received by 8% for 12 sec, stacking up to 5 times.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Dancing",
+            "technicalTerm": "Shadow Dance",
+            "definition": "Allows use of all Stealth abilities and grants all the combat benefits of Stealth for 8 sec and increases dmg by 15%. Effect not broken from taking dmg or attacking.",
+            "specialization": "Subtlety",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Dueled",
+            "technicalTerm": "Shadowy Duel",
+            "definition": "You lock your target into a duel contained in the shadows, remvoing both of you form the eyes of onlookers for 6 sec, Allows access to Stealth - based abilities",
+            "specialization": "Subtlety",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Bomb",
+            "technicalTerm": "Smoke Bomb",
+            "definition": "Creates a cloud of thick smoke in an 8 yard radius around the Rogue for 5 sec. Enemies are unable to target into or out of the smoke cloud.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "term": "Re",
+            "technicalTerm": "Re-Stealth",
+            "definition": "Drop combat and enter stealth",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "class": "SHAMAN",
+            "term": "Wall",
+            "technicalTerm": "Astral Shift",
+            "definition": "Shift partially into the elemental planes, taking 40% less dmg for 8 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Lust",
+            "technicalTerm": "Bloodlust",
+            "definition": "Increases haste by 30% for all party and raid members for 40 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Cap totem",
+            "technicalTerm": "Capacitor Totem",
+            "definition": "Summons a totem at the target location - after 2 sec it explodes stunning all enemies within 8 yards for 3 sec",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Earth Ele",
+            "technicalTerm": "Earth Elemental",
+            "definition": "Calls forth a Greater Earth Elemental to protect you and your allies for 1 min",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Earthbind",
+            "technicalTerm": "Earthbind Totem",
+            "definition": "Summons a Earth totem at the target location for 20 sec that slows the movement speed of enemies within 10 yards by 50%",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "DOT",
+            "technicalTerm": "Flame Shock",
+            "definition": "Sears the target with fire, causing 200 fire dmg and then additonal dmg over time for 18 sec",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Slow",
+            "technicalTerm": "Frost Shock",
+            "definition": "Chills the target with frost, causing dmg and reducing the target's movement speed by 50% for 6 sec",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Healing Stream",
+            "technicalTerm": "Healing Stream Totem",
+            "definition": "A totem that heals an injured party or raid member within 40 yards for X amount every 1.8 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Hex",
+            "technicalTerm": "Hex",
+            "definition": "Transform the enemy into a frog for 1 min, only works on Humanoids and Beats.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "schoolOfMagic": "Nature"
+        },
+        {
+            "term": "Purge",
+            "technicalTerm": "Purge",
+            "definition": "Purges the enemy target, removing 1 benefical magic effect",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Tremor",
+            "technicalTerm": "Tremor Totem",
+            "definition": "Summons a Totem at the feet of the caster for 10 sec, removing Fear, Charm and sleep effects from party and raid members within 30 yards",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Shear",
+            "technicalTerm": "Wind Shear",
+            "definition": "Disrupts the target's concentration with a bursts of wind, interrupting spellcasting and preventing any spell in that school from being cast for 3 sec",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Earth Shock",
+            "technicalTerm": "Earth Shock",
+            "definition": "Instantly shocks the target with concussive force, causing 3k Nature dmg",
+            "specialization": "Elemental",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Fire Ele",
+            "technicalTerm": "Fire Elemental",
+            "definition": "Calls forth a Greater Fire Elemental to rain destruction on your enemies for 30 sec. ",
+            "specialization": "Elemental",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Grounding",
+            "technicalTerm": "Grounding Totem",
+            "definition": "Summons an Air Totem at the feet of the caster that will redirect all harmful spells cast on a nearby party or raid member to istelf. Lasts 3 sec",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "term": "Lasso",
+            "technicalTerm": "Lightning Lasso",
+            "definition": "Grips the target in lighting, stunning and dealing 6k nature dmg over 5 sec while the target is lassoed. Can move while channeling.",
+            "specialization": "Elemental",
+            "PvP": true,
+            "PvE": false,
+            "synonyms": "Stun"
+        },
+        {
+            "term": "Skyfury",
+            "technicalTerm": "Skyfury Totem",
+            "definition": "A Fire Totem that increases the critcal effect of dmg and healing spells of all nearby allies within 40 yards by 20% for 15 sec",
+            "specialization": "Elemental, Resto",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "term": "Stormkeeper",
+            "technicalTerm": "Stormkeeper",
+            "definition": "Charge yourself with lighting causing your next 2 Lighting Bolts to deal 150% more dmg and also causes your next 2 Lighting Bolts or Chain Lightings to be instant cast and trigger an Elemental Overload on every target",
+            "specialization": "Elemental",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Knock",
+            "technicalTerm": "Thunderstrom",
+            "definition": "Calls down a bolt of Lighting dealing dmg to all enemies within 10 yards reducing their movement speed by 40% for 5 sec, and knocking them away from the Shaman, Usable while stunned.",
+            "specialization": "Elemental",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Procs",
+            "technicalTerm": "Lava Surge Procs",
+            "definition": "Your Flame Chock dmg over time has a 13% chance to reset the remaining cooldown on Lava Burst and cause your next Lava Burst to be instant.",
+            "specialization": "Elemental",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Windfury",
+            "technicalTerm": "Windury Totem",
+            "definition": "Party and raid members within 30 yards have a 10% chance when they auto attack to swing and extra time",
+            "specialization": "Enchancement",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Healing Tide",
+            "technicalTerm": "Healing Tide Totem",
+            "definition": "Summons a healing Totem for 10 sec, which pulses every 1.8 sec healing all party or raid members within 40 yards for 3k",
+            "specialization": "Restoration",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Mana Tide",
+            "technicalTerm": "Mana Tide Totem",
+            "definition": "Summons a Totem for 8 sec, granting 100% increased mana regeneration to allies within 20 yards.",
+            "specialization": "Restoration",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "SLT",
+            "technicalTerm": "Spirit Link Totem",
+            "definition": "Summons a Totem at the target location for 6 sec, which reduces dmg taken by all party and raid members by 10%. Every 1 sec the health of all affected players is redistributed, such that all players are at the same percentage of max health.",
+            "specialization": "Restoration",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Counterstrike",
+            "technicalTerm": "Counterstrike Totem",
+            "definition": "Summons a Totem for 15sec - whenever enemies within 20 yards of the totem deal direct dmg, the totem will deal 100% of the dmg dealt back to attacker",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Earthern",
+            "technicalTerm": "Earthenwall Totem",
+            "definition": "Summons a Totem for 15 sec, damage from each attack will be redirected to the totem.",
+            "specialization": "Restoration",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "class": "WARLOCK",
+            "term": "Axe Toss",
+            "technicalTerm": "Command Demon",
+            "definition": "The Felguard hurls its weapon, Stunning and interrupting the target for 4 sec.",
+            "specialization": "Demonology",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Banish",
+            "technicalTerm": "Banish",
+            "definition": "Banishes an enemy Demon, Aberration, or Elemental, preventing any action for 30 sec. Limit 1",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Lock rocks",
+            "technicalTerm": "Healthstones",
+            "definition": "Use: Instatnly restores 25% health (1 min Cooldown)",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Lock candy, cookie"
+        },
+        {
+            "term": "Slow",
+            "technicalTerm": "Curse of Exhaustion",
+            "definition": "Reduces the target's movment speed by 50% for 12 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Port",
+            "technicalTerm": "Demonic Portal",
+            "definition": "Teleports you to you Demonic Circle and removes all movment slowing effects. 40 yrd range",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Gateway",
+            "technicalTerm": "Demonic Gateway",
+            "definition": "Creates a demonic gateway between two location. Activating the gateway transport the user to the other gateway. Each player can use a Demonic Gateway only once per 1.5 min",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Fear",
+            "technicalTerm": "Fear",
+            "definition": "Strikes fear in the enemy, disorienting for 20 sec. dmg may cancel the effect. Limit 1 ",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Tyrant",
+            "technicalTerm": "Summon Demonic Tyrant",
+            "definition": "Summon a Demonic Tyrant to increase the duration of all your current lesser demons by 15 sec, and increasing the dmg of all your other demons by 15% while damaging your target",
+            "specialization": "Demonology",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Darkgalre",
+            "technicalTerm": "Summon Darkglare",
+            "definition": "Summons a Darkglare from the Nether that extends the duration of your dmg over time effects on all enemies by 8 sec. The Darkglare will serve you for 20 sec, blasting its target for dmg, increasing by 10% for every dmg over time effect you have active on any target.",
+            "specialization": "Affliction",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "UA",
+            "technicalTerm": "Unstable Affliction",
+            "definition": "Afflicts one target with 3k dmg over 16 sec. If dispelled, deals 6k dmg to the dispeller and silences them for 4 sec.",
+            "specialization": "Affliction",
+            "PvP": true,
+            "PvE": true,
+            "schoolOfMagic": "Shadow"
+        },
+        {
+            "term": "BOLTS",
+            "technicalTerm": "Chaos Bolt",
+            "definition": "Unleashes a devastating blast of chaos, dealing a critcal strike for 3k dmg. Damage is further increased by your critical strike chance.",
+            "specialization": "Destruction",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Havoc",
+            "technicalTerm": "Havoc",
+            "definition": "Marks a target with Havoc for 12 sec, causing your single target spells to also strike the Havoc victim for 60% of normal inital damage.",
+            "specialization": "Destruction",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Infernal",
+            "technicalTerm": "Summon: Infernal",
+            "definition": "Summons an Inferal from the Nether, impacting for dmg and stunning all enemies in the area for 2 sec. The Infernal will serve you for 30 sec, dealing dmg to all nearby enemies every 1.7 sec and generationg 1 soul shard fragment every 0.5 sec.",
+            "specialization": "Destruction",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Dark Soul",
+            "technicalTerm": "Dark Soul",
+            "definition": "Infuses your soul with unstable power, increasing your powers by a percentage for 20 sec",
+            "specialization": "Affliction, Destruction",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Coil",
+            "technicalTerm": "Mortal Coil",
+            "definition": "Horrifies an enemy target into fleeing, incapacitatiing for 3 sec and healing you for 20% of max health.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Cata",
+            "technicalTerm": "Cataclysim",
+            "definition": "Calls forth a cataclysm at the target location, dealing dmg and afflictiong them with Immolate",
+            "specialization": "Destruction",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Reflect",
+            "technicalTerm": "Nether Ward",
+            "definition": "Surrounds the caster with a shield that lasts 3 sec, reflecting all harmful spells cast on you.",
+            "specialization": "Destruction",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "term": "Wall",
+            "technicalTerm": "Unending Resolve",
+            "definition": "Hardens your skin, reducing all dmg you take by 40% and grating immunity to interrupt, silence, and pushback effects for 8 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "class": "WARRIOR",
+            "term": "Shout",
+            "technicalTerm": "Battle Shout",
+            "definition": "Increases the attack power of all party and raid memver within 100 yards by 5% for 1 hour.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Berserker Rage",
+            "technicalTerm": "Berserker Rage",
+            "definition": "Go berserk, removing and granting immunity to Fear, Sap, and incapacitate effects for 6 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Slow",
+            "technicalTerm": "Hamstring",
+            "definition": "Maims the enemy for 220 Physical damage, and reducing movment speed by 50% for 15 sec",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Slow"
+        },
+        {
+            "term": "Leap",
+            "technicalTerm": "Heroic Leap",
+            "definition": "Leap through the air toward a target location, slamming down with destructive force to deal dmg to all enemies within 8 yards",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Ignore Pain",
+            "technicalTerm": "Ignore Pain",
+            "definition": "Fight through the pain, ignoring 50% of dmg taken, up to 5k total dmg prevented.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Intervene ",
+            "technicalTerm": "Intervene",
+            "definition": "Run at high speed towards an ally, intercepting all melee and ranged attacks against them for 6 sec while they remain within 10 yds",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Interrupt",
+            "technicalTerm": "Pummel",
+            "definition": "Pummels the target, interrupting spellcasting and preventing any spell in that school from being cast for 4 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Rally",
+            "technicalTerm": "Rally Cry",
+            "definition": "Lets loose a rallying cry, grating all party or raid members within 40 yards 35% temporary and maximum health for 10 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Shatter",
+            "technicalTerm": "Shattering Throw",
+            "definition": "Hurl your weapon at the enemy, causing 1500 Physical dmg ingnoring armor, and removing any magical immunities. deals up to 500% increased dmg to absorb shields.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Spear",
+            "technicalTerm": "Spear of Bastion",
+            "definition": "Throw a Kyrian spear at the target location, dealing dmg instatnly and additianly dmg over 4 sec. Enemies hit are tethered to the Spears location for the duration",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Reflect",
+            "technicalTerm": "Spell Reflect",
+            "definition": "Raise your weapon, reflecting spells cast o you and reducing magical damage you take bye 20%. Lasts 5 sec or until a spell is reflected",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Storm",
+            "technicalTerm": "Storm Bolt",
+            "definition": "Hurls your weapon at an enemy, causing 300 dmg and stunning for 4 sec",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Parry",
+            "technicalTerm": "Die by the sword",
+            "definition": "Increases your parry chance by 100% and reduces all dmg you take by 30 % for 8 sec.",
+            "specialization": "Arms",
+            "PvP": true,
+            "PvE": true,
+            "synonyms": "Die by"
+        },
+        {
+            "term": "Disarm",
+            "technicalTerm": "Disarm",
+            "definition": "Disarm the enemy's weapons and shield for 6 sec. ",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "term": "MS",
+            "technicalTerm": "Mortal Strike",
+            "definition": "A vicious strike that deals dmg and reduces the effectiveness of healing on the target by 50% for 10 sec",
+            "specialization": "Arms",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Warbreaker",
+            "technicalTerm": "Warbreaker",
+            "definition": "Smash the ground and shatter the armor of all enemies within 8 yds, dealing dmg and increasing dmg you deal to them by 30% for 10 sec.",
+            "specialization": "Arms",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Avatar",
+            "technicalTerm": "Avatar",
+            "definition": "Transform into a colossus for 20 sec, causing you to deal 20% increased dmg and removing all roots and snares.",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Banner",
+            "technicalTerm": "War Banner",
+            "definition": "You throw down a war banner at your feet - increasing movement speed by 30% and reduces the duration of all incoming crowd control effects by 50% to all allies within 30 yards of the war banner, lasts 15 sec",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "term": "Sharpen",
+            "technicalTerm": "Sharpen Blade",
+            "definition": "When activated, your next Mortal Strike will deal 15% increased dmg and reduce healing taken by 50% for 6 sec.",
+            "specialization": "Arms",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "term": "Overwatch",
+            "technicalTerm": "Overwatch",
+            "definition": "When you intervene an ally, they gain Spell Reflection for 5 sec or until a spell is reflected.",
+            "specialization": "Arms",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "term": "Death Sentence",
+            "technicalTerm": "Death Sentence",
+            "definition": "Execute now has a 15 yard range, causing you to charge to targets when used.",
+            "PvP": true,
+            "PvE": false
+        },
+        {
+            "term": "D Stance",
+            "technicalTerm": "Defensive Stance",
+            "definition": "A defensive combat state that reduces all damage you take by 20% and all damage you deal by 10% lasts until cancelled",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "Fear",
+            "technicalTerm": "Intimidation Shout",
+            "definition": "Causes the targeted enemy to cower in fear, and up to 5 additional enemies within 8 yards to flee. Targets are disoriented for 8 sec.",
+            "specialization": "All",
+            "PvP": true,
+            "PvE": true
+        },
+        {
+            "term": "WHAT YOU NEED TO KNOW"
+        },
+        {
+            "definition": "Trinket"
+        },
+        {
+            "definition": "Setup/Go"
+        },
+        {
+            "technicalTerm": "HP Bar",
+            "definition": "Health Bars"
+        },
+        {
+            "technicalTerm": "Blue Bar",
+            "definition": "Mana Bars"
+        },
+        {
+            "technicalTerm": "LOS",
+            "definition": "Line of Sight"
+        },
+        {
+            "technicalTerm": "CC",
+            "definition": "Crowd Control",
+            "synonyms": "(Re)"
+        },
+        {
+            "definition": "Diminishing Return"
+        },
+        {
+            "technicalTerm": "Spin the flag "
+        },
+        {
+            "technicalTerm": "Turtle"
+        },
+        {
+            "PvPTalents": "Other game ideas"
+        },
+        {
+            "PvPTalents": "Call of Duty: Warzone"
+        },
+        {
+            "PvPTalents": "League of Legends"
+        },
+        {
+            "PvPTalents": "Fortnite"
+        },
+        {
+            "PvPTalents": "Counter-Strike: GO"
+        },
+        {
+            "PvPTalents": "Grand Theft Auto"
+        }
+    ],
+    "Call of Duty Warzone": [
+        {
+            "class": "CATEGORY",
+            "CALL OF DUTY: WARZONE": "TERM",
+            "definition": "TECHNICAL TERM",
+            "specialization": "DEFINITION"
+        },
+        {
+            "class": "MAP",
+            "CALL OF DUTY: WARZONE": "Cop"
+        },
+        {
+            "CALL OF DUTY: WARZONE": "Red "
+        },
+        {
+            "CALL OF DUTY: WARZONE": "Green "
+        },
+        {
+            "CALL OF DUTY: WARZONE": "Top "
+        },
+        {
+            "CALL OF DUTY: WARZONE": "Bottom"
+        },
+        {
+            "CALL OF DUTY: WARZONE": "Super"
+        },
+        {
+            "CALL OF DUTY: WARZONE": "Hotel"
+        },
+        {
+            "CALL OF DUTY: WARZONE": "Bank"
+        },
+        {
+            "CALL OF DUTY: WARZONE": "Hanger"
+        },
+        {
+            "CALL OF DUTY: WARZONE": "Gas Station"
+        },
+        {
+            "CALL OF DUTY: WARZONE": "Office"
+        },
+        {
+            "CALL OF DUTY: WARZONE": "Electrical"
+        },
+        {
+            "CALL OF DUTY: WARZONE": "Blue"
+        },
+        {
+            "CALL OF DUTY: WARZONE": "Buy"
+        },
+        {
+            "CALL OF DUTY: WARZONE": "Tities"
+        },
+        {
+            "CALL OF DUTY: WARZONE": "White"
+        },
+        {
+            "CALL OF DUTY: WARZONE": "Downtown"
+        },
+        {
+            "CALL OF DUTY: WARZONE": "Port"
+        }
+    ]
+}
